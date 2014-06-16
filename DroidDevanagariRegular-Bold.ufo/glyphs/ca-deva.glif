@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ca-deva" format="1">
+  <advance width="1381"/>
+  <unicode hex="091A"/>
+  <outline>
+    <contour>
+      <point x="1381" y="1330" type="line"/>
+      <point x="1441" y="1137" type="line"/>
+      <point x="0" y="1137" type="line"/>
+      <point x="-60" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="796" y="913" type="line"/>
+      <point x="856" y="720" type="line"/>
+      <point x="118" y="720" type="line"/>
+      <point x="58" y="913" type="line"/>
+    </contour>
+    <contour>
+      <point x="1155" y="309" type="line"/>
+      <point x="1067" y="196"/>
+      <point x="885" y="141"/>
+      <point x="749" y="141" type="curve" smooth="yes"/>
+      <point x="476" y="141"/>
+      <point x="279" y="361"/>
+      <point x="279" y="570" type="curve" smooth="yes"/>
+      <point x="279" y="765"/>
+      <point x="451" y="913"/>
+      <point x="660" y="913" type="curve"/>
+      <point x="801" y="720" type="line"/>
+      <point x="612" y="720"/>
+      <point x="491" y="607"/>
+      <point x="491" y="480" type="curve"/>
+      <point x="491" y="400"/>
+      <point x="546" y="333"/>
+      <point x="652" y="333" type="curve" smooth="yes"/>
+      <point x="806" y="333"/>
+      <point x="954" y="453"/>
+      <point x="954" y="590" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1194" y="1243" type="line"/>
+      <point x="1194" y="-61" type="line"/>
+      <point x="954" y="-21" type="line"/>
+      <point x="954" y="1243" type="line"/>
+    </contour>
+  </outline>
+</glyph>

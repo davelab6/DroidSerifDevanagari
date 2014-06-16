@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ss_nn_ya-deva" format="1">
+  <advance width="2488"/>
+  <outline>
+    <component base="ss-deva"/>
+    <component base="nn-deva" xOffset="600"/>
+    <component base="ya-deva" xOffset="1200"/>
+  </outline>
+</glyph>
