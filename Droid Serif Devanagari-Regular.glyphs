@@ -25,7 +25,9 @@ DisplayStrings = (
 "/a-deva/i-deva/u-deva/e-deva/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva/la-deva/va-deva/pa-deva/ssa-deva/sa-deva/ha-deva",
 "/jha-deva",
 "/ga-deva",
-"/ma-deva"
+"/ma-deva",
+"/u-deva",
+"/uu-deva"
 );
 copyright = "Digitized data copyright (C) 2014, Google Corporation.";
 customParameters = (
@@ -18640,7 +18642,7 @@ unicode = 0908;
 },
 {
 glyphname = "u-deva";
-lastChange = "2014-06-01 19:33:12 +0530";
+lastChange = "2014-06-16 15:42:00 +0530";
 layers = (
 {
 background = {
@@ -18756,8 +18758,8 @@ nodes = (
 "829 310 OFFCURVE",
 "829 458 CURVE",
 "829 583 OFFCURVE",
-"738 679 OFFCURVE",
-"619 702 CURVE"
+"734 679 OFFCURVE",
+"609 702 CURVE"
 );
 }
 );
