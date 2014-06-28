@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k_ma-deva" format="1">
-  <advance width="1786"/>
+  <advance width="2365"/>
   <outline>
     <component base="k-deva"/>
-    <component base="ma-deva" xOffset="600"/>
+    <component base="ma-deva" xOffset="1179"/>
   </outline>
 </glyph>

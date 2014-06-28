@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t_ta-deva" format="1">
-  <advance width="1841"/>
+  <advance width="1946"/>
   <outline>
     <component base="t-deva"/>
-    <component base="ta-deva" xOffset="600"/>
+    <component base="ta-deva" xOffset="705"/>
   </outline>
 </glyph>

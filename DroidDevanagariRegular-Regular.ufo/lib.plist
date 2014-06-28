@@ -291,6 +291,7 @@
 		<string>ddda-deva</string>
 		<string>bba-deva</string>
 		<string>u-deva.001</string>
+		<string>rrVocalic-deva.001</string>
 		<string>va-deva.001</string>
 		<string>ha-deva.001</string>
 		<string>k_ka-deva</string>
@@ -878,6 +879,7 @@
 		<string>yenapVowel-mtei</string>
 		<string>zero-mtei</string>
 		<string>newGlyph.001</string>
+		<string>newGlyph.002</string>
 	</array>
 </dict>
 </plist>

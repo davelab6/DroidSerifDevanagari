@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ph_ja-deva" format="1">
-  <advance width="2021"/>
+  <advance width="2482"/>
   <outline>
     <component base="ph-deva"/>
-    <component base="ja-deva" xOffset="600"/>
+    <component base="ja-deva" xOffset="1061"/>
   </outline>
 </glyph>
