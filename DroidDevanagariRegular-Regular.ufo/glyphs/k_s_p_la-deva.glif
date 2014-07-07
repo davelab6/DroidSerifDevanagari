@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k_s_p_la-deva" format="1">
-  <advance width="3181"/>
+  <advance width="4020"/>
   <outline>
     <component base="k-deva"/>
-    <component base="s-deva" xOffset="600"/>
-    <component base="p-deva" xOffset="1200"/>
-    <component base="la-deva" xOffset="1800"/>
+    <component base="s-deva" xOffset="1179"/>
+    <component base="p-deva" xOffset="2044"/>
+    <component base="la-deva" xOffset="2639"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k_da-deva" format="1">
-  <advance width="1608"/>
+  <advance width="2187"/>
   <outline>
     <component base="k-deva"/>
-    <component base="da-deva" xOffset="600"/>
+    <component base="da-deva" xOffset="1179"/>
   </outline>
 </glyph>

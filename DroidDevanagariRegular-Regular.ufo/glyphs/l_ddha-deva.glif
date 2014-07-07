@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l_ddha-deva" format="1">
-  <advance width="1608"/>
+  <advance width="1846"/>
   <outline>
     <component base="l-deva"/>
-    <component base="ddha-deva" xOffset="600"/>
+    <component base="ddha-deva" xOffset="838"/>
   </outline>
 </glyph>

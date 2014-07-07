@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k_ss_ya-deva" format="1">
-  <advance width="2488"/>
+  <advance width="3062"/>
   <outline>
     <component base="k-deva"/>
-    <component base="ss-deva" xOffset="600"/>
-    <component base="ya-deva" xOffset="1200"/>
+    <component base="ss-deva" xOffset="1179"/>
+    <component base="ya-deva" xOffset="1774"/>
   </outline>
 </glyph>

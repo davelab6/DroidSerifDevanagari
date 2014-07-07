@@ -4,6 +4,9 @@
 <dict>
 	<key>GSDimensionPlugin.Dimensions</key>
 	<dict>
+		<key>2777C4B8-28CF-4E18-816B-E5A8A64F0BAA</key>
+		<dict>
+	</dict>
 		<key>9038F23B-D43E-461B-9F57-51F4A7075990</key>
 		<dict>
 	</dict>
@@ -291,6 +294,7 @@
 		<string>ddda-deva</string>
 		<string>bba-deva</string>
 		<string>u-deva.001</string>
+		<string>rrVocalic-deva.001</string>
 		<string>va-deva.001</string>
 		<string>ha-deva.001</string>
 		<string>k_ka-deva</string>
@@ -878,6 +882,7 @@
 		<string>yenapVowel-mtei</string>
 		<string>zero-mtei</string>
 		<string>newGlyph.001</string>
+		<string>newGlyph.002</string>
 	</array>
 </dict>
 </plist>

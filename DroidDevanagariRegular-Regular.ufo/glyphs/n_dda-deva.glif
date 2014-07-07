@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n_dda-deva" format="1">
-  <advance width="1652"/>
+  <advance width="1637"/>
   <outline>
     <component base="n-deva"/>
-    <component base="dda-deva" xOffset="600"/>
+    <component base="dda-deva" xOffset="585"/>
   </outline>
 </glyph>

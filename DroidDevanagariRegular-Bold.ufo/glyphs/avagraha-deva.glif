@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="avagraha-deva" format="1">
-  <advance width="600"/>
+  <advance width="653"/>
   <unicode hex="093D"/>
   <outline>
+    <contour>
+      <point x="653" y="1330" type="line"/>
+      <point x="713" y="1137" type="line"/>
+      <point x="0" y="1137" type="line"/>
+      <point x="-60" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="1330" type="line"/>
+      <point x="446" y="-61" type="line"/>
+      <point x="206" y="-21" type="line"/>
+      <point x="206" y="1330" type="line"/>
+    </contour>
   </outline>
 </glyph>

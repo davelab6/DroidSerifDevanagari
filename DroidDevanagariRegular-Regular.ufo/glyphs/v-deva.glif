@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v-deva" format="1">
-  <advance width="600"/>
+  <advance width="611"/>
   <outline>
+    <contour>
+      <point x="660" y="1330" type="line"/>
+      <point x="720" y="1197" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="-60" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="827" y="649" type="line"/>
+      <point x="751" y="802"/>
+      <point x="646" y="863"/>
+      <point x="519" y="863" type="curve" smooth="yes"/>
+      <point x="346" y="863"/>
+      <point x="228" y="749"/>
+      <point x="228" y="592" type="curve" smooth="yes"/>
+      <point x="228" y="440"/>
+      <point x="340" y="328"/>
+      <point x="500" y="328" type="curve" smooth="yes"/>
+      <point x="642" y="328"/>
+      <point x="763" y="417"/>
+      <point x="813" y="568" type="curve"/>
+      <point x="911" y="426" type="line"/>
+      <point x="844" y="254"/>
+      <point x="691" y="189"/>
+      <point x="567" y="189" type="curve" smooth="yes"/>
+      <point x="340" y="189"/>
+      <point x="79" y="408"/>
+      <point x="79" y="663" type="curve" smooth="yes"/>
+      <point x="79" y="861"/>
+      <point x="236" y="1007"/>
+      <point x="449" y="1007" type="curve" smooth="yes"/>
+      <point x="604" y="1007"/>
+      <point x="775" y="930"/>
+      <point x="882" y="745" type="curve"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>
