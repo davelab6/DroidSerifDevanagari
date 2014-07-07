@@ -1030,6 +1030,8 @@
 	<string>newG_lyph.glif</string>
 	<key>newGlyph.001</key>
 	<string>newG_lyph.001.glif</string>
+	<key>newGlyph.002</key>
+	<string>newG_lyph.002.glif</string>
 	<key>ng_g_ra-deva</key>
 	<string>ng_g_ra-deva.glif</string>
 	<key>ng_ga-deva</key>
@@ -1300,6 +1302,8 @@
 	<string>rr-deva.glif</string>
 	<key>rrVocalic-deva</key>
 	<string>rrV_ocalic-deva.glif</string>
+	<key>rrVocalic-deva.001</key>
+	<string>rrV_ocalic-deva.001.glif</string>
 	<key>rrVocalicMatra-deva</key>
 	<string>rrV_ocalicM_atra-deva.glif</string>
 	<key>rr_ha-deva</key>

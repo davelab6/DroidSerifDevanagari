@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gga-deva" format="1">
-  <advance width="600"/>
+  <advance width="1301"/>
   <unicode hex="097B"/>
   <outline>
+    <contour>
+      <point x="1114" y="60" type="line"/>
+      <point x="1114" y="-93" type="line"/>
+      <point x="138" y="-93" type="line"/>
+      <point x="88" y="60" type="line"/>
+    </contour>
+    <component base="ga-deva"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>
