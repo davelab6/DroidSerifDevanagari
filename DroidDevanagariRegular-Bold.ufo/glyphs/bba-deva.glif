@@ -4,10 +4,11 @@
   <unicode hex="097F"/>
   <outline>
     <contour>
-      <point x="1043" y="60" type="line"/>
-      <point x="1043" y="-93" type="line"/>
+      <point x="103" y="60" type="line"/>
+      <point x="86" y="37" type="line"/>
       <point x="129" y="-93" type="line"/>
-      <point x="79" y="60" type="line"/>
+      <point x="1043" y="-93" type="line"/>
+      <point x="1043" y="60" type="line"/>
     </contour>
     <component base="ba-deva"/>
   </outline>

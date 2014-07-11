@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="v-deva" format="1">
+<glyph name="b-deva" format="1">
   <advance width="681"/>
   <outline>
     <contour>
@@ -9,26 +9,36 @@
       <point x="89" y="389"/>
       <point x="368" y="149"/>
       <point x="618" y="149" type="curve" smooth="yes"/>
-      <point x="814" y="149"/>
-      <point x="952" y="279"/>
-      <point x="1021" y="453" type="curve"/>
+      <point x="809" y="149"/>
+      <point x="946" y="273"/>
+      <point x="1018" y="456" type="curve"/>
       <point x="848" y="578" type="line"/>
-      <point x="804" y="462"/>
-      <point x="694" y="348"/>
-      <point x="547" y="348" type="curve" smooth="yes"/>
-      <point x="415" y="348"/>
-      <point x="318" y="440"/>
-      <point x="318" y="560" type="curve" smooth="yes"/>
-      <point x="318" y="688"/>
-      <point x="427" y="783"/>
+      <point x="830.76" y="532.548"/>
+      <point x="803.386" y="487.403"/>
+      <point x="767.624" y="449.302" type="curve"/>
+      <point x="496.73" y="773.904" type="line"/>
+      <point x="520.328" y="779.842"/>
+      <point x="545.566" y="783"/>
       <point x="572" y="783" type="curve" smooth="yes"/>
       <point x="687" y="783"/>
       <point x="795" y="724"/>
       <point x="852" y="632" type="curve"/>
-      <point x="965" y="729" type="line"/>
-      <point x="897" y="839"/>
-      <point x="724" y="997"/>
+      <point x="981" y="717" type="line"/>
+      <point x="869" y="880"/>
+      <point x="684" y="997"/>
       <point x="482" y="997" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="640.461" y="364.104" type="line"/>
+      <point x="611.41" y="353.796"/>
+      <point x="580.146" y="348"/>
+      <point x="547" y="348" type="curve" smooth="yes"/>
+      <point x="415" y="348"/>
+      <point x="318" y="440"/>
+      <point x="318" y="560" type="curve" smooth="yes"/>
+      <point x="318" y="609.689"/>
+      <point x="334.426" y="654.405"/>
+      <point x="363.007" y="690.521" type="curve"/>
     </contour>
     <contour>
       <point x="-36" y="1330" type="line"/>

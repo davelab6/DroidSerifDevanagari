@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m_la-deva" format="1">
-  <advance width="2031"/>
+  <advance width="2061"/>
   <outline>
     <component base="m-deva"/>
     <component base="la-deva" xOffset="650"/>

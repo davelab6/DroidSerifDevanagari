@@ -14,7 +14,7 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>20</integer>
+		<real>8</real>
 		<key>GSRoughenHorizontal</key>
 		<integer>15</integer>
 		<key>GSRoughenSegmentLength</key>

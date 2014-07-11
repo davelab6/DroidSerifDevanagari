@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sh_cha-deva" format="1">
-  <advance width="2372"/>
+  <advance width="2322"/>
   <outline>
     <component base="sh-deva"/>
     <component base="cha-deva" xOffset="951"/>

@@ -4,10 +4,12 @@
   <unicode hex="097E"/>
   <outline>
     <contour>
-      <point x="968" y="-40" type="line"/>
-      <point x="1018" y="-153" type="line"/>
+      <point x="108" y="-40" type="line"/>
+      <point x="102" y="-49" type="line"/>
       <point x="148" y="-153" type="line"/>
-      <point x="98" y="-40" type="line"/>
+      <point x="1008" y="-153" type="line"/>
+      <point x="1014" y="-144" type="line"/>
+      <point x="968" y="-40" type="line"/>
     </contour>
     <component base="dda-deva"/>
   </outline>
@@ -15,8 +17,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

@@ -4,10 +4,11 @@
   <unicode hex="097B"/>
   <outline>
     <contour>
-      <point x="1114" y="60" type="line"/>
-      <point x="1114" y="-93" type="line"/>
+      <point x="112" y="60" type="line"/>
+      <point x="95" y="37" type="line"/>
       <point x="138" y="-93" type="line"/>
-      <point x="88" y="60" type="line"/>
+      <point x="1114" y="-93" type="line"/>
+      <point x="1114" y="60" type="line"/>
     </contour>
     <component base="ga-deva"/>
   </outline>

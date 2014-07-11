@@ -4,10 +4,11 @@
   <unicode hex="097C"/>
   <outline>
     <contour>
-      <point x="1294" y="60" type="line"/>
-      <point x="1294" y="-93" type="line"/>
+      <point x="122" y="60" type="line"/>
+      <point x="105" y="37" type="line"/>
       <point x="148" y="-93" type="line"/>
-      <point x="98" y="60" type="line"/>
+      <point x="1294" y="-93" type="line"/>
+      <point x="1294" y="60" type="line"/>
     </contour>
     <component base="ja-deva"/>
   </outline>
