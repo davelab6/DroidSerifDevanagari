@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l_da-deva" format="1">
-  <advance width="1846"/>
-  <outline>
-    <component base="l-deva"/>
-    <component base="da-deva" xOffset="838"/>
-  </outline>
-</glyph>

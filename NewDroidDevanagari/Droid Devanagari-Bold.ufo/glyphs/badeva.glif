@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="badeva" format="1">
+  <advance width="1230"/>
+  <unicode hex="092C"/>
+  <outline>
+    <contour>
+      <point x="213" y="867" type="line"/>
+      <point x="672" y="327" type="line"/>
+      <point x="853" y="347" type="line"/>
+      <point x="394" y="897" type="line"/>
+    </contour>
+    <component base="vadeva"/>
+  </outline>
+</glyph>

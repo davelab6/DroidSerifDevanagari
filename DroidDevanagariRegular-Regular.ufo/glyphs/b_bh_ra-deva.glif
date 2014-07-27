@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="b_bh_ra-deva" format="1">
-  <advance width="2374"/>
-  <outline>
-    <component base="b-deva"/>
-    <component base="bh-deva" xOffset="611"/>
-    <component base="ra-deva" xOffset="1508"/>
-  </outline>
-</glyph>

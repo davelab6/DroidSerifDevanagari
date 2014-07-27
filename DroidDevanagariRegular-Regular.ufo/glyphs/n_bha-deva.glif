@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="n_bha-deva" format="1">
-  <advance width="2018"/>
-  <outline>
-    <component base="n-deva"/>
-    <component base="bha-deva" xOffset="585"/>
-  </outline>
-</glyph>

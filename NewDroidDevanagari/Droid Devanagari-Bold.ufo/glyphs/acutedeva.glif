@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="-408" y="1517" type="line"/>
+      <point x="-233" y="1457" type="line"/>
+      <point x="77" y="1870" type="line"/>
+      <point x="-98" y="1930" type="line"/>
+    </contour>
+  </outline>
+</glyph>

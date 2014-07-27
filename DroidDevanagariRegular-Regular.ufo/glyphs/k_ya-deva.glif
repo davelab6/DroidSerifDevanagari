@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="k_ya-deva" format="1">
-  <advance width="2467"/>
-  <outline>
-    <component base="k-deva"/>
-    <component base="ya-deva" xOffset="1179"/>
-  </outline>
-</glyph>

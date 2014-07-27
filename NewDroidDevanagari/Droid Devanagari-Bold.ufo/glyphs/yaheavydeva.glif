@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yaheavydeva" format="1">
+  <advance width="1348"/>
+  <unicode hex="097A"/>
+  <outline>
+    <contour>
+      <point x="400" y="1178" type="line"/>
+      <point x="909" y="478" type="line"/>
+      <point x="1062" y="508" type="line"/>
+      <point x="553" y="1208" type="line"/>
+    </contour>
+    <component base="yadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

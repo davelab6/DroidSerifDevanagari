@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="k_s_dda-deva" format="1">
-  <advance width="3096"/>
-  <outline>
-    <component base="k-deva"/>
-    <component base="s-deva" xOffset="1179"/>
-    <component base="dda-deva" xOffset="2044"/>
-  </outline>
-</glyph>

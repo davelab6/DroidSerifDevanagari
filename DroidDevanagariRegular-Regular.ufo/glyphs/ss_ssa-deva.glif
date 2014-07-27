@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ss_ssa-deva" format="1">
-  <advance width="1706"/>
-  <outline>
-    <component base="ss-deva"/>
-    <component base="ssa-deva" xOffset="595"/>
-  </outline>
-</glyph>

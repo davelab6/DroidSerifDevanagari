@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssadeva_viramadeva_radeva" format="1">
+  <advance width="1191"/>
+  <outline>
+    <contour>
+      <point x="180" y="1213" type="line"/>
+      <point x="699" y="533" type="line"/>
+      <point x="852" y="563" type="line"/>
+      <point x="333" y="1243" type="line"/>
+    </contour>
+    <component base="padeva_viramadeva_radeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

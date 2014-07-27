@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="g_ga-deva" format="1">
-  <advance width="1875"/>
-  <outline>
-    <component base="g-deva"/>
-    <component base="ga-deva" xOffset="634"/>
-  </outline>
-</glyph>

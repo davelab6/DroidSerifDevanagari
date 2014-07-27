@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="j_ny_ya-deva" format="1">
-  <advance width="3107"/>
-  <outline>
-    <component base="j-deva"/>
-    <component base="ny-deva" xOffset="842"/>
-    <component base="ya-deva" xOffset="1819"/>
-  </outline>
-</glyph>

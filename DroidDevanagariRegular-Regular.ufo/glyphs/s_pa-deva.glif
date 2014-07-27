@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="s_pa-deva" format="1">
-  <advance width="1977"/>
-  <outline>
-    <component base="s-deva"/>
-    <component base="pa-deva" xOffset="865"/>
-  </outline>
-</glyph>

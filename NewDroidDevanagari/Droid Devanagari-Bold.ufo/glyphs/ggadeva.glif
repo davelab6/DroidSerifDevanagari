@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ggadeva" format="1">
+  <advance width="1301"/>
+  <unicode hex="097B"/>
+  <outline>
+    <contour>
+      <point x="112" y="60" type="line"/>
+      <point x="95" y="37" type="line"/>
+      <point x="138" y="-93" type="line"/>
+      <point x="1114" y="-93" type="line"/>
+      <point x="1114" y="60" type="line"/>
+    </contour>
+    <component base="gadeva"/>
+  </outline>
+</glyph>

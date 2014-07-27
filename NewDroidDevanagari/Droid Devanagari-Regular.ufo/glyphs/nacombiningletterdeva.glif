@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacombiningletterdeva" format="1">
+  <advance width="0"/>
+  <unicode hex="A8ED"/>
+  <outline>
+    <contour>
+      <point x="-137" y="681" type="move" name="_class0"/>
+    </contour>
+  </outline>
+</glyph>

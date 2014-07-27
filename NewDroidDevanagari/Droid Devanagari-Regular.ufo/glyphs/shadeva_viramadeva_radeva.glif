@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shadeva_viramadeva_radeva" format="1">
+  <advance width="1479"/>
+  <outline>
+    <contour>
+      <point x="1479" y="1330" type="line"/>
+      <point x="869" y="1330" type="line"/>
+      <point x="863" y="1321" type="line"/>
+      <point x="919" y="1197" type="line"/>
+      <point x="1112" y="1197" type="line"/>
+      <point x="1112" y="779.808" type="line"/>
+      <point x="1048.38" y="708.483"/>
+      <point x="967.435" y="676"/>
+      <point x="872" y="676" type="curve" smooth="yes"/>
+      <point x="792.381" y="676"/>
+      <point x="711.584" y="698.378"/>
+      <point x="639.795" y="735.979" type="curve"/>
+      <point x="770.107" y="846.151"/>
+      <point x="828" y="945.113"/>
+      <point x="828" y="1045" type="curve" smooth="yes"/>
+      <point x="828" y="1208"/>
+      <point x="675" y="1387"/>
+      <point x="486" y="1387" type="curve" smooth="yes"/>
+      <point x="341" y="1387"/>
+      <point x="233" y="1282"/>
+      <point x="233" y="1125" type="curve" smooth="yes"/>
+      <point x="233" y="1004.63"/>
+      <point x="296.756" y="880.074"/>
+      <point x="403.463" y="775.851" type="curve"/>
+      <point x="314.073" y="713.422"/>
+      <point x="200.683" y="645.138"/>
+      <point x="60" y="569" type="curve"/>
+      <point x="179" y="443" type="line"/>
+      <point x="330.006" y="523.253"/>
+      <point x="451.72" y="596.209"/>
+      <point x="547.129" y="664.365" type="curve"/>
+      <point x="631.12" y="612.568"/>
+      <point x="728.172" y="572.001"/>
+      <point x="833.504" y="548.301" type="curve"/>
+      <point x="699.908" y="446.655"/>
+      <point x="554.344" y="330.886"/>
+      <point x="407" y="208" type="curve"/>
+      <point x="546" y="78" type="line"/>
+      <point x="760.376" y="270.559"/>
+      <point x="945.06" y="427.127"/>
+      <point x="1112" y="550.265" type="curve"/>
+      <point x="1112" y="19" type="line"/>
+      <point x="1263" y="-19" type="line"/>
+      <point x="1272" y="-12" type="line"/>
+      <point x="1272" y="1197" type="line"/>
+      <point x="1529" y="1197" type="line"/>
+      <point x="1535" y="1206" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="1181"/>
+      <point x="472" y="1258"/>
+      <point x="554" y="1258" type="curve" smooth="yes"/>
+      <point x="616" y="1258"/>
+      <point x="680" y="1214"/>
+      <point x="680" y="1123" type="curve" smooth="yes"/>
+      <point x="680" y="1039.16"/>
+      <point x="625.128" y="950.511"/>
+      <point x="495.934" y="845.232" type="curve"/>
+      <point x="435.838" y="910.493"/>
+      <point x="398" y="988.73"/>
+      <point x="398" y="1069" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

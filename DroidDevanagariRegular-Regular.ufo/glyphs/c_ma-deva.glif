@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="c_ma-deva" format="1">
-  <advance width="1961"/>
-  <outline>
-    <component base="c-deva"/>
-    <component base="ma-deva" xOffset="775"/>
-  </outline>
-</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva_viramadeva_anusvaradeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-193" y="1623"/>
+      <point x="-248" y="1569"/>
+      <point x="-248" y="1503" type="curve" smooth="yes"/>
+      <point x="-248" y="1437"/>
+      <point x="-193" y="1382"/>
+      <point x="-126" y="1382" type="curve" smooth="yes"/>
+      <point x="-60" y="1382"/>
+      <point x="-6" y="1437"/>
+      <point x="-6" y="1503" type="curve" smooth="yes"/>
+      <point x="-6" y="1569"/>
+      <point x="-60" y="1623"/>
+      <point x="-126" y="1623" type="curve" smooth="yes"/>
+    </contour>
+    <component base="radeva_viramadeva"/>
+  </outline>
+</glyph>

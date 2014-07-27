@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t_s_na-deva" format="1">
-  <advance width="2691"/>
-  <outline>
-    <component base="t-deva"/>
-    <component base="s-deva" xOffset="705"/>
-    <component base="na-deva" xOffset="1570"/>
-  </outline>
-</glyph>
