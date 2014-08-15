@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ttadeva" format="1">
+  <advance width="1068"/>
+  <unicode hex="091F"/>
+  <outline>
+    <contour>
+      <point x="1121" y="1160" type="line"/>
+      <point x="1068" y="1330" type="line"/>
+      <point x="-36" y="1330" type="line"/>
+      <point x="-53" y="1307" type="line"/>
+      <point x="0" y="1137" type="line"/>
+      <point x="638" y="1137" type="line"/>
+      <point x="638" y="987" type="line" smooth="yes"/>
+      <point x="638" y="974"/>
+      <point x="631" y="967"/>
+      <point x="618" y="967" type="curve" smooth="yes"/>
+      <point x="507" y="967" type="line" smooth="yes"/>
+      <point x="215" y="967"/>
+      <point x="51" y="804"/>
+      <point x="51" y="587" type="curve" smooth="yes"/>
+      <point x="51" y="298"/>
+      <point x="345" y="31"/>
+      <point x="651" y="31" type="curve" smooth="yes"/>
+      <point x="857" y="31"/>
+      <point x="1006" y="141"/>
+      <point x="1006" y="260" type="curve" smooth="yes"/>
+      <point x="1006" y="346"/>
+      <point x="931" y="416"/>
+      <point x="851" y="435" type="curve"/>
+      <point x="802" y="310"/>
+      <point x="662" y="222"/>
+      <point x="522" y="222" type="curve" smooth="yes"/>
+      <point x="385" y="222"/>
+      <point x="279" y="306"/>
+      <point x="279" y="465" type="curve" smooth="yes"/>
+      <point x="279" y="627"/>
+      <point x="414" y="759"/>
+      <point x="643" y="759" type="curve" smooth="yes"/>
+      <point x="852" y="759" type="line"/>
+      <point x="872" y="779" type="line"/>
+      <point x="872" y="1137" type="line"/>
+      <point x="1104" y="1137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

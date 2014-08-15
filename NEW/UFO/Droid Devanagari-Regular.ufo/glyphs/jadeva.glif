@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jadeva" format="1">
+  <advance width="1421"/>
+  <unicode hex="091C"/>
+  <outline>
+    <contour>
+      <point x="1471" y="1197" type="line"/>
+      <point x="1477" y="1206" type="line"/>
+      <point x="1421" y="1330" type="line"/>
+      <point x="-50" y="1330" type="line"/>
+      <point x="-56" y="1321" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="1054" y="1197" type="line"/>
+      <point x="1054" y="923" type="line"/>
+      <point x="444" y="923" type="line"/>
+      <point x="438" y="914" type="line"/>
+      <point x="494" y="790" type="line"/>
+      <point x="631" y="790"/>
+      <point x="704" y="688"/>
+      <point x="704" y="578" type="curve" smooth="yes"/>
+      <point x="704" y="456"/>
+      <point x="615" y="389"/>
+      <point x="511" y="389" type="curve" smooth="yes"/>
+      <point x="350" y="389"/>
+      <point x="231" y="551"/>
+      <point x="171" y="923" type="curve"/>
+      <point x="116" y="917"/>
+      <point x="99" y="888"/>
+      <point x="100" y="826" type="curve" smooth="yes"/>
+      <point x="103" y="665"/>
+      <point x="232" y="219"/>
+      <point x="557" y="219" type="curve" smooth="yes"/>
+      <point x="719" y="219"/>
+      <point x="842" y="329"/>
+      <point x="842" y="505" type="curve" smooth="yes"/>
+      <point x="842" y="600"/>
+      <point x="806" y="700"/>
+      <point x="736" y="780" type="curve"/>
+      <point x="741" y="790" type="line"/>
+      <point x="1054" y="790" type="line"/>
+      <point x="1054" y="19" type="line"/>
+      <point x="1205" y="-19" type="line"/>
+      <point x="1214" y="-12" type="line"/>
+      <point x="1214" y="1197" type="line"/>
+    </contour>
+  </outline>
+</glyph>

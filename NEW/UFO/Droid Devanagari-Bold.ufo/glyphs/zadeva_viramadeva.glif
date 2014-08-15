@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zadeva_viramadeva" format="1">
+  <advance width="902"/>
+  <outline>
+    <contour>
+      <point x="1034" y="1160" type="line"/>
+      <point x="981" y="1330" type="line"/>
+      <point x="-36" y="1330" type="line"/>
+      <point x="-53" y="1307" type="line"/>
+      <point x="0" y="1137" type="line"/>
+      <point x="1017" y="1137" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="934"/>
+      <point x="89" y="892"/>
+      <point x="90" y="811" type="curve" smooth="yes"/>
+      <point x="93" y="627"/>
+      <point x="245" y="149"/>
+      <point x="596" y="149" type="curve" smooth="yes"/>
+      <point x="767" y="149"/>
+      <point x="902" y="262"/>
+      <point x="902" y="446" type="curve" smooth="yes"/>
+      <point x="902" y="539"/>
+      <point x="867" y="640"/>
+      <point x="806" y="720" type="curve"/>
+      <point x="811" y="730" type="line"/>
+      <point x="1202" y="730" type="line"/>
+      <point x="1142" y="923" type="line"/>
+      <point x="458" y="923" type="line"/>
+      <point x="441" y="900" type="line"/>
+      <point x="494" y="730" type="line"/>
+      <point x="622" y="730"/>
+      <point x="688" y="649"/>
+      <point x="688" y="556" type="curve" smooth="yes"/>
+      <point x="688" y="455"/>
+      <point x="611" y="399"/>
+      <point x="523" y="399" type="curve" smooth="yes"/>
+      <point x="374" y="399"/>
+      <point x="267" y="557"/>
+      <point x="211" y="943" type="curve"/>
+    </contour>
+    <contour>
+      <point x="522" y="56"/>
+      <point x="465" y="-1"/>
+      <point x="465" y="-70" type="curve" smooth="yes"/>
+      <point x="465" y="-139"/>
+      <point x="522" y="-196"/>
+      <point x="592" y="-196" type="curve" smooth="yes"/>
+      <point x="661" y="-196"/>
+      <point x="717" y="-139"/>
+      <point x="717" y="-70" type="curve" smooth="yes"/>
+      <point x="717" y="-1"/>
+      <point x="661" y="56"/>
+      <point x="592" y="56" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

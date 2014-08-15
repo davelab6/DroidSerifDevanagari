@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cadeva" format="1">
+  <advance width="1381"/>
+  <unicode hex="091A"/>
+  <outline>
+    <contour>
+      <point x="1564" y="1160" type="line"/>
+      <point x="1543" y="1330" type="line"/>
+      <point x="125" y="1330" type="line"/>
+      <point x="106" y="1307" type="line"/>
+      <point x="127" y="1137" type="line"/>
+      <point x="1078" y="1137" type="line"/>
+      <point x="977" y="658" type="line" smooth="yes"/>
+      <point x="948" y="521"/>
+      <point x="764" y="393"/>
+      <point x="598" y="393" type="curve" smooth="yes"/>
+      <point x="506" y="393"/>
+      <point x="467" y="437"/>
+      <point x="483" y="510" type="curve" smooth="yes"/>
+      <point x="509" y="636"/>
+      <point x="666" y="760"/>
+      <point x="855" y="760" type="curve" smooth="yes"/>
+      <point x="880" y="760" type="line"/>
+      <point x="899" y="783" type="line"/>
+      <point x="878" y="953" type="line"/>
+      <point x="163" y="953" type="line"/>
+      <point x="144" y="930" type="line"/>
+      <point x="165" y="760" type="line"/>
+      <point x="354" y="760" type="line"/>
+      <point x="352" y="758" type="line"/>
+      <point x="322" y="715"/>
+      <point x="304" y="669"/>
+      <point x="296" y="628" type="curve" smooth="yes"/>
+      <point x="252" y="419"/>
+      <point x="413" y="201"/>
+      <point x="695" y="201" type="curve" smooth="yes"/>
+      <point x="747" y="201"/>
+      <point x="816" y="209"/>
+      <point x="887" y="231" type="curve"/>
+      <point x="886" y="227" type="line"/>
+      <point x="834" y="-21" type="line"/>
+      <point x="1047" y="-57" type="line"/>
+      <point x="1073" y="-39" type="line"/>
+      <point x="1318" y="1137" type="line"/>
+      <point x="1545" y="1137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

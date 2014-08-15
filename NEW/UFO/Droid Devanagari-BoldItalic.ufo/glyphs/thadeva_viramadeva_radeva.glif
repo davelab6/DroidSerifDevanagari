@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thadeva_viramadeva_radeva" format="1">
+  <advance width="1401"/>
+  <outline>
+    <contour>
+      <point x="1584" y="1160" type="line"/>
+      <point x="1563" y="1330" type="line"/>
+      <point x="925" y="1330" type="line"/>
+      <point x="906" y="1307" type="line"/>
+      <point x="927" y="1137" type="line"/>
+      <point x="1098" y="1137" type="line"/>
+      <point x="971" y="572" type="line"/>
+      <point x="826" y="482"/>
+      <point x="726" y="441"/>
+      <point x="631" y="441" type="curve" smooth="yes"/>
+      <point x="539" y="441"/>
+      <point x="459" y="470"/>
+      <point x="412" y="531" type="curve"/>
+      <point x="676" y="619"/>
+      <point x="807" y="746"/>
+      <point x="841" y="909" type="curve" smooth="yes"/>
+      <point x="893" y="1157"/>
+      <point x="709" y="1387"/>
+      <point x="470" y="1387" type="curve" smooth="yes"/>
+      <point x="349" y="1387"/>
+      <point x="241" y="1323"/>
+      <point x="215" y="1198" type="curve" smooth="yes"/>
+      <point x="178" y="1022"/>
+      <point x="325" y="886"/>
+      <point x="450" y="886" type="curve" smooth="yes"/>
+      <point x="493" y="886"/>
+      <point x="524" y="907"/>
+      <point x="535" y="923" type="curve"/>
+      <point x="430" y="966"/>
+      <point x="407" y="1018"/>
+      <point x="418" y="1070" type="curve" smooth="yes"/>
+      <point x="434" y="1146"/>
+      <point x="510" y="1200"/>
+      <point x="592" y="1200" type="curve" smooth="yes"/>
+      <point x="659" y="1200"/>
+      <point x="672" y="1154"/>
+      <point x="657" y="1081" type="curve" smooth="yes"/>
+      <point x="624" y="925"/>
+      <point x="479" y="803"/>
+      <point x="190" y="726" type="curve"/>
+      <point x="188" y="705" type="line"/>
+      <point x="246" y="500"/>
+      <point x="369" y="364"/>
+      <point x="499" y="294" type="curve"/>
+      <point x="126" y="90" type="line"/>
+      <point x="127" y="63" type="line"/>
+      <point x="272" y="-74" type="line"/>
+      <point x="915" y="283" type="line"/>
+      <point x="920" y="277" type="line"/>
+      <point x="854" y="-21" type="line"/>
+      <point x="1066" y="-57" type="line"/>
+      <point x="1092" y="-39" type="line"/>
+      <point x="1338" y="1137" type="line"/>
+      <point x="1565" y="1137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iisigndeva.alt1" format="1">
+  <advance width="573"/>
+  <outline>
+    <contour>
+      <point x="250" y="-12" type="line"/>
+      <point x="503" y="1197" type="line"/>
+      <point x="763" y="1197" type="line"/>
+      <point x="767" y="1206" type="line"/>
+      <point x="736" y="1330" type="line"/>
+      <point x="499" y="1325" type="line"/>
+      <point x="317" y="1741"/>
+      <point x="43" y="1910"/>
+      <point x="-245" y="1910" type="curve" smooth="yes"/>
+      <point x="-491" y="1910"/>
+      <point x="-665" y="1785"/>
+      <point x="-700" y="1617" type="curve" smooth="yes"/>
+      <point x="-721" y="1519"/>
+      <point x="-694" y="1412"/>
+      <point x="-602" y="1303" type="curve"/>
+      <point x="-501" y="1293" type="line"/>
+      <point x="-562" y="1355"/>
+      <point x="-579" y="1445"/>
+      <point x="-563" y="1524" type="curve" smooth="yes"/>
+      <point x="-533" y="1665"/>
+      <point x="-397" y="1770"/>
+      <point x="-189" y="1770" type="curve" smooth="yes"/>
+      <point x="61" y="1770"/>
+      <point x="264" y="1616"/>
+      <point x="397" y="1345" type="curve"/>
+      <point x="381" y="1330" type="line"/>
+      <point x="112" y="1330" type="line"/>
+      <point x="107" y="1321" type="line"/>
+      <point x="139" y="1197" type="line"/>
+      <point x="343" y="1197" type="line"/>
+      <point x="94" y="19" type="line"/>
+      <point x="239" y="-19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooesigndeva" format="1">
+  <advance width="573"/>
+  <unicode hex="093B"/>
+  <outline>
+    <contour>
+      <point x="736" y="1330" type="line"/>
+      <point x="523" y="1330" type="line"/>
+      <point x="577" y="1587" type="line"/>
+      <point x="447" y="1615" type="line"/>
+      <point x="436" y="1608" type="line"/>
+      <point x="380" y="1330" type="line"/>
+      <point x="112" y="1330" type="line"/>
+      <point x="107" y="1321" type="line"/>
+      <point x="139" y="1197" type="line"/>
+      <point x="343" y="1197" type="line"/>
+      <point x="94" y="19" type="line"/>
+      <point x="239" y="-19" type="line"/>
+      <point x="250" y="-12" type="line"/>
+      <point x="503" y="1197" type="line"/>
+      <point x="763" y="1197" type="line"/>
+      <point x="767" y="1206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

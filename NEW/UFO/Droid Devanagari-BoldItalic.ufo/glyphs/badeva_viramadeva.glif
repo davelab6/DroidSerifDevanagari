@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="badeva_viramadeva" format="1">
+  <advance width="681"/>
+  <outline>
+    <contour>
+      <point x="894" y="1137" type="line"/>
+      <point x="913" y="1160" type="line"/>
+      <point x="892" y="1330" type="line"/>
+      <point x="125" y="1330" type="line"/>
+      <point x="106" y="1307" type="line"/>
+      <point x="127" y="1137" type="line"/>
+    </contour>
+    <contour>
+      <point x="856" y="616" type="line"/>
+      <point x="828" y="565"/>
+      <point x="781" y="512"/>
+      <point x="731" y="471" type="curve"/>
+      <point x="550" y="772" type="line"/>
+      <point x="579" y="778"/>
+      <point x="605" y="783"/>
+      <point x="641" y="783" type="curve" smooth="yes"/>
+      <point x="746" y="783"/>
+      <point x="838" y="731"/>
+      <point x="876" y="639" type="curve"/>
+      <point x="1012" y="710" type="line"/>
+      <point x="929" y="876"/>
+      <point x="768" y="997"/>
+      <point x="553" y="997" type="curve" smooth="yes"/>
+      <point x="338" y="997"/>
+      <point x="156" y="868"/>
+      <point x="116" y="676" type="curve" smooth="yes"/>
+      <point x="60" y="412"/>
+      <point x="291" y="179"/>
+      <point x="555" y="179" type="curve" smooth="yes"/>
+      <point x="735" y="179"/>
+      <point x="897" y="299"/>
+      <point x="1007" y="479" type="curve"/>
+    </contour>
+    <contour>
+      <point x="365" y="378"/>
+      <point x="297" y="448"/>
+      <point x="318" y="547" type="curve" smooth="yes"/>
+      <point x="329" y="602"/>
+      <point x="363" y="651"/>
+      <point x="398" y="685" type="curve"/>
+      <point x="581" y="391" type="line"/>
+      <point x="549" y="384"/>
+      <point x="520" y="378"/>
+      <point x="482" y="378" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

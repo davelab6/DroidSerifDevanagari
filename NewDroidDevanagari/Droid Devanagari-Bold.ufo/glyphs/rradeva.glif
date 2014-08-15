@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rradeva" format="1">
-  <advance width="946"/>
-  <unicode hex="0931"/>
-  <outline>
-    <component base="radeva"/>
-    <component base="nuktadeva" xOffset="840"/>
-  </outline>
-</glyph>

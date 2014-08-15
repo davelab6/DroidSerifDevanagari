@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="danda" format="1">
+  <advance width="941"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="523" y="1348" type="line"/>
+      <point x="501" y="1330" type="line"/>
+      <point x="501" y="-61" type="line"/>
+      <point x="719" y="-97" type="line"/>
+      <point x="741" y="-79" type="line"/>
+      <point x="741" y="1312" type="line"/>
+    </contour>
+  </outline>
+</glyph>
