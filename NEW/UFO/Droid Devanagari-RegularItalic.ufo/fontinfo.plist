@@ -17,7 +17,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Droid Devanagari</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular Italic</string>
+	<string>RegularItalic</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -30,16 +30,16 @@
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>160</integer>
+		<integer>133</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>133</integer>
+		<integer>160</integer>
 	</array>
 	<key>styleMapStyleName</key>
-	<string>italic</string>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Italic</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>

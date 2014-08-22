@@ -4,17 +4,27 @@
   <unicode hex="093E"/>
   <outline>
     <contour>
-      <point x="570" y="1137" type="line"/>
-      <point x="817" y="1137" type="line"/>
-      <point x="836" y="1160" type="line"/>
-      <point x="815" y="1330" type="line"/>
-      <point x="125" y="1330" type="line"/>
-      <point x="106" y="1307" type="line"/>
-      <point x="127" y="1137" type="line"/>
-      <point x="330" y="1137" type="line"/>
+      <point x="812" y="1137" type="line"/>
+      <point x="833" y="1160" type="line"/>
+      <point x="816" y="1330" type="line"/>
+      <point x="127" y="1330" type="line"/>
+      <point x="105" y="1307" type="line"/>
+      <point x="123" y="1137" type="line"/>
+      <point x="329" y="1137" type="line"/>
       <point x="86" y="-21" type="line"/>
-      <point x="299" y="-57" type="line"/>
-      <point x="325" y="-39" type="line"/>
+      <point x="296" y="-57" type="line"/>
+      <point x="322" y="-39" type="line"/>
+      <point x="569" y="1137" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

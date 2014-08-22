@@ -4,12 +4,15 @@
   <unicode hex="0951"/>
   <outline>
     <contour>
-      <point x="-391" y="1944" type="line"/>
       <point x="-415" y="1922" type="line"/>
       <point x="-415" y="1469" type="line"/>
       <point x="-216" y="1442" type="line"/>
       <point x="-192" y="1464" type="line"/>
       <point x="-192" y="1917" type="line"/>
+      <point x="-391" y="1944" type="line"/>
+    </contour>
+    <contour>
+      <point x="-127" y="666" type="move" name="_class0"/>
     </contour>
   </outline>
 </glyph>

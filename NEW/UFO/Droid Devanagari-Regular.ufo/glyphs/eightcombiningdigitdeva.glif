@@ -16,9 +16,10 @@
       <point x="-286" y="1927"/>
       <point x="-199" y="2004"/>
       <point x="-182" y="2021" type="curve"/>
-      <point x="-95" y="1967" type="line"/>
-      <point x="-101" y="1961"/>
-      <point x="-195" y="1870"/>
+      <point x="-101" y="1971" type="line"/>
+      <point x="-100" y="1962" type="line"/>
+      <point x="-121" y="1941"/>
+      <point x="-204" y="1860"/>
       <point x="-281" y="1781" type="curve"/>
       <point x="-351" y="1703"/>
       <point x="-373" y="1671"/>
@@ -34,7 +35,7 @@
       <point x="-69" y="1619" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-863" y="2250" type="move" name="_class0"/>
+      <point x="-532" y="1670" type="move" name="_class0"/>
     </contour>
   </outline>
 </glyph>

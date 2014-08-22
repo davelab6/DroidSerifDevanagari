@@ -4,27 +4,37 @@
   <unicode hex="0945"/>
   <outline>
     <contour>
-      <point x="-367" y="1873"/>
-      <point x="-379" y="1858"/>
-      <point x="-385" y="1828" type="curve" smooth="yes"/>
-      <point x="-416" y="1685"/>
-      <point x="-315" y="1486"/>
-      <point x="-104" y="1486" type="curve" smooth="yes"/>
-      <point x="54" y="1486"/>
-      <point x="197" y="1603"/>
-      <point x="228" y="1751" type="curve" smooth="yes"/>
-      <point x="242" y="1818"/>
-      <point x="214" y="1863"/>
-      <point x="156" y="1890" type="curve"/>
-      <point x="101" y="1705"/>
-      <point x="-17" y="1619"/>
-      <point x="-140" y="1619" type="curve" smooth="yes"/>
-      <point x="-244" y="1619"/>
-      <point x="-316" y="1684"/>
-      <point x="-342" y="1880" type="curve"/>
+      <point x="-375" y="1862"/>
+      <point x="-390" y="1844"/>
+      <point x="-390" y="1773" type="curve" smooth="yes"/>
+      <point x="-390" y="1650"/>
+      <point x="-299" y="1486"/>
+      <point x="-118" y="1486" type="curve" smooth="yes"/>
+      <point x="79" y="1486"/>
+      <point x="250" y="1661"/>
+      <point x="250" y="1781" type="curve" smooth="yes"/>
+      <point x="250" y="1819"/>
+      <point x="229" y="1843"/>
+      <point x="179" y="1866" type="curve"/>
+      <point x="101" y="1696"/>
+      <point x="-14" y="1619"/>
+      <point x="-126" y="1619" type="curve" smooth="yes"/>
+      <point x="-232" y="1619"/>
+      <point x="-309" y="1689"/>
+      <point x="-329" y="1884" type="curve"/>
     </contour>
     <contour>
-      <point x="-102" y="666" type="move" name="_class0"/>
+      <point x="136" y="666" type="move" name="_class0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

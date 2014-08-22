@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aasigndeva" format="1">
-  <advance width="573"/>
+  <advance width="573.130"/>
   <unicode hex="093E"/>
   <outline>
     <contour>
-      <point x="250" y="-12" type="line"/>
-      <point x="503" y="1197" type="line"/>
-      <point x="763" y="1197" type="line"/>
+      <point x="248" y="-12" type="line"/>
+      <point x="502" y="1197" type="line"/>
+      <point x="759" y="1197" type="line"/>
       <point x="767" y="1206" type="line"/>
-      <point x="736" y="1330" type="line"/>
-      <point x="112" y="1330" type="line"/>
-      <point x="107" y="1321" type="line"/>
-      <point x="139" y="1197" type="line"/>
-      <point x="343" y="1197" type="line"/>
+      <point x="737" y="1330" type="line"/>
+      <point x="114" y="1330" type="line"/>
+      <point x="106" y="1321" type="line"/>
+      <point x="136" y="1197" type="line"/>
+      <point x="342" y="1197" type="line"/>
       <point x="94" y="19" type="line"/>
-      <point x="239" y="-19" type="line"/>
+      <point x="237" y="-19" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

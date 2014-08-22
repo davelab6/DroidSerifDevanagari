@@ -23,5 +23,8 @@
       <point x="-793" y="1932"/>
       <point x="-974" y="1932" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="-122" y="664" type="move" name="_class0"/>
+    </contour>
   </outline>
 </glyph>

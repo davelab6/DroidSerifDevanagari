@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="spacingcandrabindudeva" format="1">
-  <advance width="600"/>
+  <advance width="905"/>
   <unicode hex="A8F2"/>
   <outline>
+    <contour>
+      <point x="358" y="1362"/>
+      <point x="303" y="1308"/>
+      <point x="303" y="1242" type="curve" smooth="yes"/>
+      <point x="303" y="1176"/>
+      <point x="358" y="1121"/>
+      <point x="425" y="1121" type="curve" smooth="yes"/>
+      <point x="491" y="1121"/>
+      <point x="545" y="1176"/>
+      <point x="545" y="1242" type="curve" smooth="yes"/>
+      <point x="545" y="1308"/>
+      <point x="491" y="1362"/>
+      <point x="425" y="1362" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="114" y="1289"/>
+      <point x="80" y="1275"/>
+      <point x="80" y="1205" type="curve" smooth="yes"/>
+      <point x="80" y="1069"/>
+      <point x="210" y="842"/>
+      <point x="469" y="842" type="curve" smooth="yes"/>
+      <point x="688" y="842"/>
+      <point x="825" y="1005"/>
+      <point x="825" y="1153" type="curve" smooth="yes"/>
+      <point x="825" y="1225"/>
+      <point x="778" y="1269"/>
+      <point x="683" y="1292" type="curve"/>
+      <point x="638" y="1111"/>
+      <point x="546" y="1025"/>
+      <point x="415" y="1025" type="curve" smooth="yes"/>
+      <point x="284" y="1025"/>
+      <point x="204" y="1110"/>
+      <point x="149" y="1300" type="curve"/>
+    </contour>
   </outline>
 </glyph>

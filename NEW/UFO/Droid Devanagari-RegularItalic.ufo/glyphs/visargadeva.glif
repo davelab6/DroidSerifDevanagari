@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="visargadeva" format="1">
-  <advance width="573"/>
+  <advance width="575.157"/>
   <unicode hex="0903"/>
   <outline>
     <contour>
       <point x="323" y="1017"/>
-      <point x="272" y="974"/>
-      <point x="260" y="919" type="curve" smooth="yes"/>
-      <point x="246" y="854"/>
-      <point x="291" y="799"/>
-      <point x="357" y="799" type="curve" smooth="yes"/>
-      <point x="411" y="799"/>
-      <point x="463" y="842"/>
-      <point x="474" y="897" type="curve" smooth="yes"/>
-      <point x="488" y="962"/>
+      <point x="256" y="958"/>
+      <point x="256" y="890" type="curve" smooth="yes"/>
+      <point x="256" y="839"/>
+      <point x="292" y="799"/>
+      <point x="344" y="799" type="curve" smooth="yes"/>
+      <point x="412" y="799"/>
+      <point x="480" y="858"/>
+      <point x="480" y="926" type="curve" smooth="yes"/>
+      <point x="480" y="977"/>
       <point x="443" y="1017"/>
-      <point x="377" y="1017" type="curve" smooth="yes"/>
+      <point x="390" y="1017" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="181" y="347"/>
-      <point x="130" y="304"/>
-      <point x="119" y="249" type="curve" smooth="yes"/>
-      <point x="105" y="184"/>
-      <point x="149" y="129"/>
-      <point x="215" y="129" type="curve" smooth="yes"/>
-      <point x="269" y="129"/>
-      <point x="322" y="172"/>
-      <point x="333" y="227" type="curve" smooth="yes"/>
-      <point x="347" y="292"/>
-      <point x="301" y="347"/>
-      <point x="235" y="347" type="curve" smooth="yes"/>
+      <point x="182" y="347"/>
+      <point x="115" y="288"/>
+      <point x="115" y="220" type="curve" smooth="yes"/>
+      <point x="115" y="169"/>
+      <point x="152" y="129"/>
+      <point x="204" y="129" type="curve" smooth="yes"/>
+      <point x="271" y="129"/>
+      <point x="339" y="188"/>
+      <point x="339" y="256" type="curve" smooth="yes"/>
+      <point x="339" y="307"/>
+      <point x="302" y="347"/>
+      <point x="250" y="347" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

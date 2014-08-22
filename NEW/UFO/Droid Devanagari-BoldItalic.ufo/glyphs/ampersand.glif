@@ -4,8 +4,6 @@
   <unicode hex="0026"/>
   <outline>
     <contour>
-      <point x="1614" y="109" type="line"/>
-      <point x="1614" y="0" type="line"/>
       <point x="1208" y="0" type="line"/>
       <point x="1067" y="150" type="line"/>
       <point x="1016" y="99"/>
@@ -74,6 +72,26 @@
       <point x="1466" y="119"/>
       <point x="1522" y="109"/>
       <point x="1595" y="109" type="curve" smooth="yes"/>
+      <point x="1614" y="109" type="line"/>
+      <point x="1614" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="325"/>
+      <point x="424" y="253"/>
+      <point x="471" y="201" type="curve" smooth="yes"/>
+      <point x="518" y="149"/>
+      <point x="587" y="117"/>
+      <point x="668" y="117" type="curve" smooth="yes"/>
+      <point x="813" y="117"/>
+      <point x="910" y="168"/>
+      <point x="977" y="248" type="curve"/>
+      <point x="539" y="715" type="line"/>
+      <point x="482" y="674"/>
+      <point x="446" y="628"/>
+      <point x="425" y="577" type="curve" smooth="yes"/>
+      <point x="404" y="525"/>
+      <point x="397" y="469"/>
+      <point x="397" y="406" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="846" y="1238"/>
@@ -100,24 +118,6 @@
       <point x="837" y="1078"/>
       <point x="846" y="1127"/>
       <point x="846" y="1190" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="397" y="325"/>
-      <point x="424" y="253"/>
-      <point x="471" y="201" type="curve" smooth="yes"/>
-      <point x="518" y="149"/>
-      <point x="587" y="117"/>
-      <point x="668" y="117" type="curve" smooth="yes"/>
-      <point x="813" y="117"/>
-      <point x="910" y="168"/>
-      <point x="977" y="248" type="curve"/>
-      <point x="539" y="715" type="line"/>
-      <point x="482" y="674"/>
-      <point x="446" y="628"/>
-      <point x="425" y="577" type="curve" smooth="yes"/>
-      <point x="404" y="525"/>
-      <point x="397" y="469"/>
-      <point x="397" y="406" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

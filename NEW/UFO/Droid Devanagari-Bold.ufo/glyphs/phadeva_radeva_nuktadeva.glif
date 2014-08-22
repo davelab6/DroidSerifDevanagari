@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="phadeva_radeva_nuktadeva" format="1">
-  <advance width="1580"/>
+  <advance width="1630"/>
   <outline>
     <contour>
-      <point x="984" y="1137" type="line"/>
       <point x="1666" y="1137" type="line"/>
       <point x="1683" y="1160" type="line"/>
       <point x="1630" y="1330" type="line"/>
@@ -12,14 +11,13 @@
       <point x="0" y="1137" type="line"/>
       <point x="199" y="1137" type="line"/>
       <point x="199" y="745" type="line" smooth="yes"/>
-      <point x="199" y="583"/>
-      <point x="303" y="438"/>
-      <point x="435" y="363" type="curve"/>
+      <point x="199" y="583.211"/>
+      <point x="302.736" y="437.675"/>
+      <point x="434.517" y="363.259" type="curve"/>
       <point x="93" y="92" type="line"/>
       <point x="93" y="64" type="line"/>
       <point x="264" y="-74" type="line"/>
-      <point x="744" y="343" type="line"/>
-      <point x="754" y="337" type="line"/>
+      <point x="754" y="346.589" type="line"/>
       <point x="754" y="-21" type="line"/>
       <point x="962" y="-57" type="line"/>
       <point x="984" y="-39" type="line"/>
@@ -40,12 +38,12 @@
       <point x="1536" y="278"/>
       <point x="1536" y="496" type="curve" smooth="yes"/>
       <point x="1536" y="773"/>
-      <point x="1346" y="942"/>
-      <point x="1146" y="942" type="curve" smooth="yes"/>
-      <point x="1090" y="942"/>
-      <point x="1039" y="929"/>
-      <point x="994" y="903" type="curve"/>
-      <point x="984" y="909" type="line"/>
+      <point x="1347" y="942"/>
+      <point x="1143" y="942" type="curve" smooth="yes"/>
+      <point x="1089" y="942"/>
+      <point x="1041" y="930"/>
+      <point x="984" y="899" type="curve"/>
+      <point x="984" y="1137" type="line"/>
     </contour>
     <contour>
       <point x="439" y="1137" type="line"/>

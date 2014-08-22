@@ -39,13 +39,12 @@
       <point x="583" y="532" type="curve"/>
       <point x="783" y="396" type="line"/>
       <point x="809" y="406" type="line"/>
-      <point x="856" y="560"/>
-      <point x="935" y="663"/>
-      <point x="1065" y="716" type="curve"/>
-      <point x="1074" y="710" type="line"/>
+      <point x="857" y="562"/>
+      <point x="933" y="662"/>
+      <point x="1074" y="720" type="curve"/>
       <point x="1074" y="509" type="line"/>
       <point x="656" y="188" type="line"/>
-      <point x="662" y="161" type="line"/>
+      <point x="656" y="161" type="line"/>
       <point x="831" y="30" type="line"/>
       <point x="1074" y="255" type="line"/>
       <point x="1074" y="-21" type="line"/>

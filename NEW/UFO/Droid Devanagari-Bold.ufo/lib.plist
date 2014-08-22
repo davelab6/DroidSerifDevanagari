@@ -14,7 +14,7 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>8</integer>
+		<integer>20</integer>
 		<key>GSOffsetHorizontal</key>
 		<integer>20</integer>
 		<key>GSOffsetVertical</key>
@@ -77,7 +77,6 @@
 		<string>cent</string>
 		<string>multiply</string>
 		<string>divide</string>
-		<string>apostrophe</string>
 		<string>candrabinduinverteddeva</string>
 		<string>candrabindudeva</string>
 		<string>anusvaradeva</string>

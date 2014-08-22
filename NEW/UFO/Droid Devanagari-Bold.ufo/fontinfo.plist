@@ -15,7 +15,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Droid Devanagari</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
+	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
