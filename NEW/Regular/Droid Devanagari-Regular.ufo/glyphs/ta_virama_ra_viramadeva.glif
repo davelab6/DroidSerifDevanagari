@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ta_virama_ra_viramadeva" format="1">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="717" y="1206" type="line"/>
+      <point x="661" y="1330" type="line"/>
+      <point x="-50" y="1330" type="line"/>
+      <point x="-56" y="1321" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="711" y="1197" type="line"/>
+    </contour>
+    <contour>
+      <point x="930" y="646" type="line"/>
+      <point x="546" y="966"/>
+      <point x="436" y="1019"/>
+      <point x="322" y="1019" type="curve" smooth="yes"/>
+      <point x="175" y="1019"/>
+      <point x="94" y="931"/>
+      <point x="94" y="859" type="curve" smooth="yes"/>
+      <point x="94" y="811"/>
+      <point x="130" y="765"/>
+      <point x="194" y="725" type="curve"/>
+      <point x="249" y="815"/>
+      <point x="303" y="879"/>
+      <point x="400" y="879" type="curve" smooth="yes"/>
+      <point x="436" y="879"/>
+      <point x="485" y="874"/>
+      <point x="740" y="686" type="curve"/>
+      <point x="549" y="563"/>
+      <point x="375" y="425"/>
+      <point x="221" y="288" type="curve"/>
+      <point x="221" y="276" type="line"/>
+      <point x="348" y="158" type="line"/>
+      <point x="504" y="301"/>
+      <point x="596" y="385"/>
+      <point x="929" y="624" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

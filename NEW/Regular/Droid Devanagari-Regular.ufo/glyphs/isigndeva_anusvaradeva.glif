@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isigndeva_anusvaradeva" format="1">
+  <advance width="573"/>
+  <outline>
+    <contour>
+      <point x="207" y="1906"/>
+      <point x="63" y="1761"/>
+      <point x="63" y="1581" type="curve" smooth="yes"/>
+      <point x="63" y="1486"/>
+      <point x="101" y="1407"/>
+      <point x="170" y="1330" type="curve"/>
+      <point x="-50" y="1330" type="line"/>
+      <point x="-56" y="1321" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="206" y="1197" type="line"/>
+      <point x="206" y="19" type="line"/>
+      <point x="357" y="-19" type="line"/>
+      <point x="366" y="-12" type="line"/>
+      <point x="366" y="1197" type="line"/>
+      <point x="623" y="1197" type="line"/>
+      <point x="629" y="1206" type="line"/>
+      <point x="573" y="1330" type="line"/>
+      <point x="292" y="1330" type="line"/>
+      <point x="230" y="1383"/>
+      <point x="201" y="1445"/>
+      <point x="201" y="1512" type="curve" smooth="yes"/>
+      <point x="201" y="1647"/>
+      <point x="319" y="1746"/>
+      <point x="540" y="1746" type="curve" smooth="yes"/>
+      <point x="842" y="1746"/>
+      <point x="1171" y="1560"/>
+      <point x="1369" y="1252" type="curve"/>
+      <point x="1454" y="1305" type="line"/>
+      <point x="1191" y="1702"/>
+      <point x="824" y="1906"/>
+      <point x="489" y="1906" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1466" y="1634"/>
+      <point x="1423" y="1591"/>
+      <point x="1423" y="1539" type="curve" smooth="yes"/>
+      <point x="1423" y="1486"/>
+      <point x="1466" y="1443"/>
+      <point x="1519" y="1443" type="curve" smooth="yes"/>
+      <point x="1571" y="1443"/>
+      <point x="1614" y="1486"/>
+      <point x="1614" y="1539" type="curve" smooth="yes"/>
+      <point x="1614" y="1591"/>
+      <point x="1571" y="1634"/>
+      <point x="1519" y="1634" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

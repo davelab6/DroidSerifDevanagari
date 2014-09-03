@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bhadeva_viramadeva" format="1">
+  <advance width="897"/>
+  <outline>
+    <contour>
+      <point x="655" y="518" type="line"/>
+      <point x="1196" y="518" type="line"/>
+      <point x="1136" y="663" type="line"/>
+      <point x="655" y="663" type="line"/>
+      <point x="655" y="973" type="line" smooth="yes"/>
+      <point x="655" y="1206"/>
+      <point x="495" y="1387"/>
+      <point x="316" y="1387" type="curve" smooth="yes"/>
+      <point x="196" y="1387"/>
+      <point x="118" y="1304"/>
+      <point x="118" y="1198" type="curve" smooth="yes"/>
+      <point x="118" y="1058"/>
+      <point x="252" y="934"/>
+      <point x="370" y="934" type="curve" smooth="yes"/>
+      <point x="410" y="934"/>
+      <point x="430" y="948"/>
+      <point x="439" y="963" type="curve"/>
+      <point x="315" y="1012"/>
+      <point x="268" y="1079"/>
+      <point x="268" y="1148" type="curve" smooth="yes"/>
+      <point x="268" y="1217"/>
+      <point x="313" y="1260"/>
+      <point x="381" y="1260" type="curve" smooth="yes"/>
+      <point x="456" y="1260"/>
+      <point x="497" y="1207"/>
+      <point x="497" y="1069" type="curve" smooth="yes"/>
+      <point x="497" y="662" type="line"/>
+      <point x="421" y="659"/>
+      <point x="352" y="641"/>
+      <point x="352" y="573" type="curve" smooth="yes"/>
+      <point x="352" y="464"/>
+      <point x="524" y="294"/>
+      <point x="600" y="294" type="curve" smooth="yes"/>
+      <point x="628" y="294"/>
+      <point x="655" y="317"/>
+      <point x="655" y="373" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="933" y="1330" type="line"/>
+      <point x="734" y="1330" type="line"/>
+      <point x="728" y="1321" type="line"/>
+      <point x="784" y="1197" type="line"/>
+      <point x="983" y="1197" type="line"/>
+      <point x="989" y="1206" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

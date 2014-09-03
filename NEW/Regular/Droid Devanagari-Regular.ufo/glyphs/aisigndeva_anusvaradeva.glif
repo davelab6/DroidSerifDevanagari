@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aisigndeva_anusvaradeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-776" y="2022"/>
+      <point x="-825" y="1962"/>
+      <point x="-825" y="1905" type="curve" smooth="yes"/>
+      <point x="-825" y="1853"/>
+      <point x="-784" y="1820"/>
+      <point x="-732" y="1801" type="curve"/>
+      <point x="-705" y="1839"/>
+      <point x="-670" y="1864"/>
+      <point x="-622" y="1864" type="curve" smooth="yes"/>
+      <point x="-554" y="1864"/>
+      <point x="-491" y="1813"/>
+      <point x="-368" y="1445" type="curve"/>
+      <point x="-586" y="1616"/>
+      <point x="-807" y="1732"/>
+      <point x="-939" y="1732" type="curve" smooth="yes"/>
+      <point x="-1027" y="1732"/>
+      <point x="-1095" y="1677"/>
+      <point x="-1095" y="1603" type="curve" smooth="yes"/>
+      <point x="-1095" y="1551"/>
+      <point x="-1061" y="1508"/>
+      <point x="-983" y="1488" type="curve"/>
+      <point x="-958" y="1550"/>
+      <point x="-914" y="1589"/>
+      <point x="-850" y="1589" type="curve" smooth="yes"/>
+      <point x="-752" y="1589"/>
+      <point x="-568" y="1501"/>
+      <point x="-376" y="1330" type="curve"/>
+      <point x="-376" y="1282" type="line"/>
+      <point x="-233" y="1282" type="line"/>
+      <point x="-233" y="1330" type="line"/>
+      <point x="-407" y="1929"/>
+      <point x="-556" y="2022"/>
+      <point x="-678" y="2022" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-166" y="1650"/>
+      <point x="-209" y="1607"/>
+      <point x="-209" y="1555" type="curve" smooth="yes"/>
+      <point x="-209" y="1502"/>
+      <point x="-166" y="1459"/>
+      <point x="-113" y="1459" type="curve" smooth="yes"/>
+      <point x="-61" y="1459"/>
+      <point x="-18" y="1502"/>
+      <point x="-18" y="1555" type="curve" smooth="yes"/>
+      <point x="-18" y="1607"/>
+      <point x="-61" y="1650"/>
+      <point x="-113" y="1650" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-131" y="665" type="move" name="_class0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

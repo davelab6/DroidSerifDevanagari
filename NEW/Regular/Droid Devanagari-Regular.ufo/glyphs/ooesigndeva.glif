@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooesigndeva" format="1">
+  <advance width="573"/>
+  <unicode hex="093B"/>
+  <outline>
+    <contour>
+      <point x="623" y="1197" type="line"/>
+      <point x="629" y="1206" type="line"/>
+      <point x="573" y="1330" type="line"/>
+      <point x="358" y="1330" type="line"/>
+      <point x="358" y="1587" type="line"/>
+      <point x="224" y="1615" type="line"/>
+      <point x="215" y="1608" type="line"/>
+      <point x="215" y="1330" type="line"/>
+      <point x="-50" y="1330" type="line"/>
+      <point x="-56" y="1321" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="206" y="1197" type="line"/>
+      <point x="206" y="19" type="line"/>
+      <point x="357" y="-19" type="line"/>
+      <point x="366" y="-12" type="line"/>
+      <point x="366" y="1197" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

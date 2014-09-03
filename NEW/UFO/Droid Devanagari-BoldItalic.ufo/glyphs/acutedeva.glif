@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="190" y="1930" type="line"/>
+      <point x="-207" y="1517" type="line"/>
+      <point x="-45" y="1457" type="line"/>
+      <point x="352" y="1870" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="665" type="move" name="_class0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
