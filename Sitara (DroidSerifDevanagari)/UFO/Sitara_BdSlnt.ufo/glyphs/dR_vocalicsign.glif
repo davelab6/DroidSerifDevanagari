@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dRvocalicsign" format="1">
+  <advance width="0"/>
+  <unicode hex="0943"/>
+  <outline>
+    <contour>
+      <point x="-139" y="96" type="line"/>
+      <point x="-363" y="40"/>
+      <point x="-462" y="-65"/>
+      <point x="-462" y="-177" type="curve" smooth="yes"/>
+      <point x="-462" y="-312"/>
+      <point x="-327" y="-478"/>
+      <point x="-118" y="-478" type="curve" smooth="yes"/>
+      <point x="19" y="-478"/>
+      <point x="157" y="-413"/>
+      <point x="157" y="-312" type="curve" smooth="yes"/>
+      <point x="157" y="-255"/>
+      <point x="114" y="-194"/>
+      <point x="52" y="-171" type="curve"/>
+      <point x="-9" y="-229"/>
+      <point x="-137" y="-300"/>
+      <point x="-219" y="-300" type="curve" smooth="yes"/>
+      <point x="-261" y="-300"/>
+      <point x="-278" y="-280"/>
+      <point x="-278" y="-249" type="curve" smooth="yes"/>
+      <point x="-278" y="-198"/>
+      <point x="-243" y="-122"/>
+      <point x="-9" y="-59" type="curve"/>
+      <point x="-4" y="-32" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3.69322587362" y="-19.0" type="move" name="_blwm_matra"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dRvocalicsign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

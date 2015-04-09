@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dKha" format="1">
+  <advance width="1696"/>
+  <unicode hex="0916"/>
+  <outline>
+    <contour>
+      <point x="1696" y="1330" type="line"/>
+      <point x="-36" y="1330" type="line"/>
+      <point x="-53" y="1307" type="line"/>
+      <point x="0" y="1137" type="line"/>
+      <point x="339" y="1137" type="line"/>
+      <point x="369" y="1058"/>
+      <point x="383" y="980"/>
+      <point x="383" y="910" type="curve" smooth="yes"/>
+      <point x="383" y="842"/>
+      <point x="370" y="790"/>
+      <point x="340" y="751" type="curve"/>
+      <point x="292" y="770"/>
+      <point x="247" y="779"/>
+      <point x="209" y="779" type="curve" smooth="yes"/>
+      <point x="126" y="779"/>
+      <point x="78" y="738"/>
+      <point x="78" y="652" type="curve" smooth="yes"/>
+      <point x="78" y="378"/>
+      <point x="564" y="-54"/>
+      <point x="877" y="-54" type="curve" smooth="yes"/>
+      <point x="993" y="-54"/>
+      <point x="1046" y="5"/>
+      <point x="1063" y="96" type="curve"/>
+      <point x="748" y="135"/>
+      <point x="512" y="251"/>
+      <point x="350" y="433" type="curve"/>
+      <point x="537" y="490"/>
+      <point x="597" y="630"/>
+      <point x="597" y="776" type="curve" smooth="yes"/>
+      <point x="597" y="893"/>
+      <point x="558" y="1014"/>
+      <point x="502" y="1137" type="curve"/>
+      <point x="1248" y="1137" type="line"/>
+      <point x="1248" y="877" type="line"/>
+      <point x="1170" y="948"/>
+      <point x="1076" y="986"/>
+      <point x="977" y="986" type="curve" smooth="yes"/>
+      <point x="805" y="986"/>
+      <point x="688" y="873"/>
+      <point x="688" y="703" type="curve" smooth="yes"/>
+      <point x="688" y="469"/>
+      <point x="910" y="256"/>
+      <point x="1127" y="256" type="curve" smooth="yes"/>
+      <point x="1163" y="256"/>
+      <point x="1201" y="262"/>
+      <point x="1248" y="278" type="curve"/>
+      <point x="1248" y="-21" type="line"/>
+      <point x="1466" y="-57" type="line"/>
+      <point x="1488" y="-39" type="line"/>
+      <point x="1488" y="1137" type="line"/>
+      <point x="1732" y="1137" type="line"/>
+      <point x="1749" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="1177" y="784"/>
+      <point x="1248" y="699"/>
+      <point x="1248" y="611" type="curve" smooth="yes"/>
+      <point x="1248" y="604" type="line" smooth="yes"/>
+      <point x="1248" y="505"/>
+      <point x="1176" y="438"/>
+      <point x="1075" y="438" type="curve" smooth="yes"/>
+      <point x="959" y="438"/>
+      <point x="885" y="525"/>
+      <point x="885" y="618" type="curve" smooth="yes"/>
+      <point x="885" y="709"/>
+      <point x="955" y="784"/>
+      <point x="1063" y="784" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1368.0" y="1395.0" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="1368.0" y="1325.0" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="1368.0" y="1335.0" type="move" name="abvm_reph"/>
+    </contour>
+    <contour>
+      <point x="848.0" y="1600.0" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="1368.0" y="-19.0" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="848.0" y="-10.0" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="1337" y="10" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="208" y="0" type="move" name="blwm_nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dKha</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1696</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

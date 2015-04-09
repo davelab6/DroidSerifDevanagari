@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dCaret" format="1">
+  <advance width="926"/>
+  <unicode hex="A8FA"/>
+  <outline>
+    <contour>
+      <point x="437" y="1735" type="line"/>
+      <point x="645" y="1325" type="line"/>
+      <point x="797" y="1325" type="line"/>
+      <point x="1163" y="1735" type="line"/>
+      <point x="1029" y="1784" type="line"/>
+      <point x="743" y="1422" type="line"/>
+      <point x="735" y="1422" type="line"/>
+      <point x="591" y="1784" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dCaret</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>926</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dOoesign" format="1">
+  <advance width="653"/>
+  <unicode hex="093B"/>
+  <outline>
+    <contour>
+      <point x="653" y="1330" type="line"/>
+      <point x="439" y="1330" type="line"/>
+      <point x="439" y="1597" type="line"/>
+      <point x="240" y="1624" type="line"/>
+      <point x="216" y="1602" type="line"/>
+      <point x="216" y="1330" type="line"/>
+      <point x="-36" y="1330" type="line"/>
+      <point x="-53" y="1307" type="line"/>
+      <point x="0" y="1137" type="line"/>
+      <point x="206" y="1137" type="line"/>
+      <point x="206" y="-21" type="line"/>
+      <point x="424" y="-57" type="line"/>
+      <point x="446" y="-39" type="line"/>
+      <point x="446" y="1137" type="line"/>
+      <point x="689" y="1137" type="line"/>
+      <point x="706" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="1395" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="326" y="1325" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="326" y="1335" type="move" name="abvm_reph"/>
+    </contour>
+    <contour>
+      <point x="326" y="1600" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="326" y="-19" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="326" y="-10" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="326" y="10" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="0" y="-23" type="move" name="blwm_nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dOoesign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>653</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

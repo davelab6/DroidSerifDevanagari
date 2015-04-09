@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dDNa" format="1">
+  <advance width="1088"/>
+  <outline>
+    <contour>
+      <point x="1000" y="759" type="line"/>
+      <point x="1023" y="779" type="line"/>
+      <point x="1093" y="1137" type="line"/>
+      <point x="1345" y="1137" type="line"/>
+      <point x="1366" y="1160" type="line"/>
+      <point x="1347" y="1330" type="line"/>
+      <point x="223" y="1330" type="line"/>
+      <point x="201" y="1307" type="line"/>
+      <point x="221" y="1137" type="line"/>
+      <point x="859" y="1137" type="line"/>
+      <point x="830" y="986" type="line" smooth="yes"/>
+      <point x="827" y="973"/>
+      <point x="819" y="966"/>
+      <point x="806" y="966" type="curve" smooth="yes"/>
+      <point x="700" y="966" type="line" smooth="yes"/>
+      <point x="333" y="966"/>
+      <point x="163" y="744"/>
+      <point x="163" y="515" type="curve" smooth="yes"/>
+      <point x="163" y="333"/>
+      <point x="269" y="164"/>
+      <point x="428" y="86" type="curve"/>
+      <point x="252" y="3" type="line" smooth="yes"/>
+      <point x="176" y="-33"/>
+      <point x="162" y="-76"/>
+      <point x="162" y="-110" type="curve" smooth="yes"/>
+      <point x="162" y="-206"/>
+      <point x="285" y="-294"/>
+      <point x="403" y="-294" type="curve" smooth="yes"/>
+      <point x="446" y="-294"/>
+      <point x="492" y="-284"/>
+      <point x="492" y="-237" type="curve" smooth="yes"/>
+      <point x="492" y="-213"/>
+      <point x="480" y="-178"/>
+      <point x="457" y="-117" type="curve"/>
+      <point x="843" y="70" type="line"/>
+      <point x="862" y="45"/>
+      <point x="868" y="19"/>
+      <point x="868" y="-2" type="curve" smooth="yes"/>
+      <point x="868" y="-74"/>
+      <point x="819" y="-107"/>
+      <point x="715" y="-132" type="curve"/>
+      <point x="717" y="-231"/>
+      <point x="765" y="-296"/>
+      <point x="851" y="-296" type="curve" smooth="yes"/>
+      <point x="951" y="-296"/>
+      <point x="1039" y="-212"/>
+      <point x="1039" y="-116" type="curve" smooth="yes"/>
+      <point x="1039" y="-60"/>
+      <point x="1014" y="21"/>
+      <point x="945" y="128" type="curve"/>
+      <point x="1000" y="175"/>
+      <point x="1043" y="238"/>
+      <point x="1043" y="312" type="curve" smooth="yes"/>
+      <point x="1043" y="408"/>
+      <point x="977" y="499"/>
+      <point x="871" y="499" type="curve" smooth="yes"/>
+      <point x="770" y="499"/>
+      <point x="697" y="425"/>
+      <point x="697" y="342" type="curve" smooth="yes"/>
+      <point x="697" y="311"/>
+      <point x="708" y="280"/>
+      <point x="725" y="253" type="curve"/>
+      <point x="677" y="232"/>
+      <point x="620" y="219"/>
+      <point x="568" y="219" type="curve" smooth="yes"/>
+      <point x="450" y="219"/>
+      <point x="363" y="290"/>
+      <point x="363" y="414" type="curve" smooth="yes"/>
+      <point x="363" y="602"/>
+      <point x="533" y="759"/>
+      <point x="791" y="759" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="977.899150538" y="-160.0" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="1009.55390961" y="1325.0" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="855.00849462" y="1600.0" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="1023.16053125" y="1395.0" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="911.618165995" y="-110.0" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="483.742104167" y="-310.0" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="594.664735417" y="-403.0" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="1011.4977127" y="1335.0" type="move" name="abvm_reph"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dDNa</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1088</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

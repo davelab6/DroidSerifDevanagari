@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dAvagraha" format="1">
+  <advance width="1047"/>
+  <unicode hex="093D"/>
+  <outline>
+    <contour>
+      <point x="1118" y="1330" type="line"/>
+      <point x="702" y="1330" type="line" smooth="yes"/>
+      <point x="502" y="1330"/>
+      <point x="361" y="1238"/>
+      <point x="361" y="1063" type="curve" smooth="yes"/>
+      <point x="361" y="1011"/>
+      <point x="375" y="952"/>
+      <point x="400" y="903" type="curve" smooth="yes"/>
+      <point x="536" y="635"/>
+      <point x="862" y="680"/>
+      <point x="862" y="496" type="curve" smooth="yes"/>
+      <point x="862" y="377"/>
+      <point x="750" y="275"/>
+      <point x="593" y="275" type="curve" smooth="yes"/>
+      <point x="441" y="275"/>
+      <point x="321" y="376"/>
+      <point x="336" y="636" type="curve"/>
+      <point x="244" y="623"/>
+      <point x="205" y="568"/>
+      <point x="205" y="467" type="curve" smooth="yes"/>
+      <point x="205" y="274"/>
+      <point x="365" y="39"/>
+      <point x="627" y="39" type="curve" smooth="yes"/>
+      <point x="875" y="39"/>
+      <point x="1044" y="229"/>
+      <point x="1044" y="417" type="curve" smooth="yes"/>
+      <point x="1044" y="476"/>
+      <point x="1030" y="550"/>
+      <point x="1000" y="607" type="curve" smooth="yes"/>
+      <point x="872" y="852"/>
+      <point x="553" y="837"/>
+      <point x="553" y="984" type="curve" smooth="yes"/>
+      <point x="553" y="1064"/>
+      <point x="627" y="1137"/>
+      <point x="827" y="1137" type="curve" smooth="yes"/>
+      <point x="1116" y="1137" type="line"/>
+      <point x="1137" y="1160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dAvagraha</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1047</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

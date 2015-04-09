@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dBha.half" format="1">
+  <advance width="907"/>
+  <outline>
+    <contour>
+      <point x="124" y="1387"/>
+      <point x="58" y="1305"/>
+      <point x="58" y="1193" type="curve" smooth="yes"/>
+      <point x="58" y="1019"/>
+      <point x="218" y="896"/>
+      <point x="330" y="896" type="curve" smooth="yes"/>
+      <point x="373" y="896"/>
+      <point x="401" y="914"/>
+      <point x="419" y="932" type="curve"/>
+      <point x="313" y="989"/>
+      <point x="278" y="1038"/>
+      <point x="278" y="1101" type="curve" smooth="yes"/>
+      <point x="278" y="1161"/>
+      <point x="310" y="1200"/>
+      <point x="368" y="1200" type="curve" smooth="yes"/>
+      <point x="440" y="1200"/>
+      <point x="457" y="1140"/>
+      <point x="457" y="1069" type="curve" smooth="yes"/>
+      <point x="457" y="672" type="line"/>
+      <point x="372" y="669"/>
+      <point x="312" y="650"/>
+      <point x="312" y="576" type="curve" smooth="yes"/>
+      <point x="312" y="430"/>
+      <point x="544" y="244"/>
+      <point x="637" y="244" type="curve" smooth="yes"/>
+      <point x="670" y="244"/>
+      <point x="695" y="268"/>
+      <point x="695" y="323" type="curve" smooth="yes"/>
+      <point x="695" y="468" type="line"/>
+      <point x="1207" y="468" type="line"/>
+      <point x="1147" y="673" type="line"/>
+      <point x="695" y="673" type="line"/>
+      <point x="695" y="913" type="line" smooth="yes"/>
+      <point x="695" y="1156"/>
+      <point x="483" y="1387"/>
+      <point x="258" y="1387" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="953" y="1330" type="line"/>
+      <point x="728" y="1330" type="line"/>
+      <point x="711" y="1307" type="line"/>
+      <point x="764" y="1137" type="line"/>
+      <point x="989" y="1137" type="line"/>
+      <point x="1006" y="1160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dBha.half</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>907</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

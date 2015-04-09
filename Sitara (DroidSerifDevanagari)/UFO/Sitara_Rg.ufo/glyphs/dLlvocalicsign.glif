@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dLlvocalicsign" format="1">
+  <advance width="0"/>
+  <unicode hex="0963"/>
+  <outline>
+    <contour>
+      <point x="-496" y="-70"/>
+      <point x="-566" y="-148"/>
+      <point x="-566" y="-257" type="curve" smooth="yes"/>
+      <point x="-566" y="-444"/>
+      <point x="-357" y="-637"/>
+      <point x="-286" y="-637" type="curve" smooth="yes"/>
+      <point x="-266" y="-637"/>
+      <point x="-246" y="-622"/>
+      <point x="-240" y="-601" type="curve"/>
+      <point x="-379" y="-510"/>
+      <point x="-459" y="-380"/>
+      <point x="-459" y="-291" type="curve" smooth="yes"/>
+      <point x="-459" y="-222"/>
+      <point x="-412" y="-175"/>
+      <point x="-343" y="-175" type="curve" smooth="yes"/>
+      <point x="-303" y="-175"/>
+      <point x="-261" y="-191"/>
+      <point x="-219" y="-224" type="curve"/>
+      <point x="-240" y="-264"/>
+      <point x="-256" y="-316"/>
+      <point x="-265" y="-380" type="curve"/>
+      <point x="-166" y="-421" type="line"/>
+      <point x="-156" y="-415" type="line"/>
+      <point x="-123" y="-217"/>
+      <point x="-22" y="-176"/>
+      <point x="42" y="-176" type="curve" smooth="yes"/>
+      <point x="90" y="-176"/>
+      <point x="120" y="-200"/>
+      <point x="120" y="-251" type="curve" smooth="yes"/>
+      <point x="120" y="-318"/>
+      <point x="68" y="-354"/>
+      <point x="1" y="-411" type="curve" smooth="yes"/>
+      <point x="-70" y="-471"/>
+      <point x="-100" y="-508"/>
+      <point x="-100" y="-561" type="curve" smooth="yes"/>
+      <point x="-100" y="-624"/>
+      <point x="-59" y="-672"/>
+      <point x="-2" y="-699" type="curve"/>
+      <point x="-20" y="-727"/>
+      <point x="-24" y="-745"/>
+      <point x="-24" y="-762" type="curve" smooth="yes"/>
+      <point x="-24" y="-839"/>
+      <point x="63" y="-936"/>
+      <point x="178" y="-936" type="curve" smooth="yes"/>
+      <point x="258" y="-936"/>
+      <point x="325" y="-889"/>
+      <point x="325" y="-837" type="curve" smooth="yes"/>
+      <point x="325" y="-809"/>
+      <point x="305" y="-779"/>
+      <point x="275" y="-762" type="curve"/>
+      <point x="242" y="-823"/>
+      <point x="170" y="-852"/>
+      <point x="124" y="-852" type="curve" smooth="yes"/>
+      <point x="89" y="-852"/>
+      <point x="64" y="-835"/>
+      <point x="64" y="-806" type="curve" smooth="yes"/>
+      <point x="64" y="-775"/>
+      <point x="91" y="-733"/>
+      <point x="228" y="-672" type="curve"/>
+      <point x="232" y="-661" type="line"/>
+      <point x="179" y="-582" type="line"/>
+      <point x="106" y="-630"/>
+      <point x="65" y="-650"/>
+      <point x="35" y="-650" type="curve" smooth="yes"/>
+      <point x="5" y="-650"/>
+      <point x="-5" y="-630"/>
+      <point x="-5" y="-611" type="curve" smooth="yes"/>
+      <point x="-5" y="-559"/>
+      <point x="69" y="-506"/>
+      <point x="115" y="-466" type="curve" smooth="yes"/>
+      <point x="180" y="-410"/>
+      <point x="210" y="-363"/>
+      <point x="210" y="-297" type="curve" smooth="yes"/>
+      <point x="210" y="-176"/>
+      <point x="108" y="-80"/>
+      <point x="-5" y="-80" type="curve" smooth="yes"/>
+      <point x="-53" y="-80"/>
+      <point x="-124" y="-98"/>
+      <point x="-179" y="-163" type="curve"/>
+      <point x="-255" y="-93"/>
+      <point x="-316" y="-70"/>
+      <point x="-379" y="-70" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="0" y="-19" type="move" name="_blwm_matra"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dLlvocalicsign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

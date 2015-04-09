@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dDbldanda" format="1">
+  <advance width="1230"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="650" y="-52" type="line"/>
+      <point x="913" y="1299" type="line"/>
+      <point x="769" y="1337" type="line"/>
+      <point x="759" y="1330" type="line"/>
+      <point x="496" y="-21" type="line"/>
+      <point x="640" y="-59" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="-52" type="line"/>
+      <point x="1283" y="1299" type="line"/>
+      <point x="1139" y="1337" type="line"/>
+      <point x="1129" y="1330" type="line"/>
+      <point x="866" y="-21" type="line"/>
+      <point x="1010" y="-59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dDbldanda</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1230</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

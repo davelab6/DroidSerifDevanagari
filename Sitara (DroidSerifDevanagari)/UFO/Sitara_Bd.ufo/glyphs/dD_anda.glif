@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dDanda" format="1">
+  <advance width="941"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="501" y="1330" type="line"/>
+      <point x="501" y="-61" type="line"/>
+      <point x="719" y="-97" type="line"/>
+      <point x="741" y="-79" type="line"/>
+      <point x="741" y="1312" type="line"/>
+      <point x="523" y="1348" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dDanda</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>941</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

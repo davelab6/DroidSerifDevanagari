@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dLlla.half" format="1">
+  <advance width="1085"/>
+  <outline>
+    <contour>
+      <point x="1390" y="1330" type="line"/>
+      <point x="209" y="1330" type="line"/>
+      <point x="201" y="1321" type="line"/>
+      <point x="233" y="1197" type="line"/>
+      <point x="1414" y="1197" type="line"/>
+      <point x="1421" y="1206" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="910"/>
+      <point x="163" y="740"/>
+      <point x="163" y="525" type="curve" smooth="yes"/>
+      <point x="163" y="327"/>
+      <point x="308" y="157"/>
+      <point x="488" y="157" type="curve" smooth="yes"/>
+      <point x="615" y="157"/>
+      <point x="699" y="237"/>
+      <point x="793" y="361" type="curve"/>
+      <point x="890" y="216"/>
+      <point x="992" y="147"/>
+      <point x="1112" y="147" type="curve" smooth="yes"/>
+      <point x="1307" y="147"/>
+      <point x="1484" y="317"/>
+      <point x="1484" y="533" type="curve" smooth="yes"/>
+      <point x="1484" y="730"/>
+      <point x="1339" y="900"/>
+      <point x="1157" y="900" type="curve" smooth="yes"/>
+      <point x="1056" y="900"/>
+      <point x="980" y="851"/>
+      <point x="877" y="724" type="curve"/>
+      <point x="773" y="850"/>
+      <point x="667" y="910"/>
+      <point x="548" y="910" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="674" y="769"/>
+      <point x="750" y="726"/>
+      <point x="814" y="641" type="curve"/>
+      <point x="621" y="377"/>
+      <point x="559" y="288"/>
+      <point x="447" y="288" type="curve" smooth="yes"/>
+      <point x="351" y="288"/>
+      <point x="294" y="361"/>
+      <point x="294" y="464" type="curve" smooth="yes"/>
+      <point x="294" y="626"/>
+      <point x="421" y="769"/>
+      <point x="586" y="769" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1298" y="769"/>
+      <point x="1353" y="697"/>
+      <point x="1353" y="595" type="curve" smooth="yes"/>
+      <point x="1353" y="432"/>
+      <point x="1227" y="288"/>
+      <point x="1073" y="288" type="curve" smooth="yes"/>
+      <point x="986" y="288"/>
+      <point x="916" y="338"/>
+      <point x="856" y="449" type="curve"/>
+      <point x="1044" y="718"/>
+      <point x="1107" y="769"/>
+      <point x="1196" y="769" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="716" y="69"/>
+      <point x="659" y="18"/>
+      <point x="659" y="-41" type="curve" smooth="yes"/>
+      <point x="659" y="-86"/>
+      <point x="692" y="-122"/>
+      <point x="738" y="-122" type="curve" smooth="yes"/>
+      <point x="796" y="-122"/>
+      <point x="854" y="-71"/>
+      <point x="854" y="-11" type="curve" smooth="yes"/>
+      <point x="854" y="33"/>
+      <point x="821" y="69"/>
+      <point x="775" y="69" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dLlla.half</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1085</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

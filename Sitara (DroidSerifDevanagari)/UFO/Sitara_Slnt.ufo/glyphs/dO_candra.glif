@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dOcandra" format="1">
+  <advance width="2033"/>
+  <unicode hex="0911"/>
+  <outline>
+    <contour>
+      <point x="1542" y="1863"/>
+      <point x="1526" y="1846"/>
+      <point x="1526" y="1776" type="curve" smooth="yes"/>
+      <point x="1526" y="1653"/>
+      <point x="1620" y="1486"/>
+      <point x="1803" y="1486" type="curve" smooth="yes"/>
+      <point x="1998" y="1486"/>
+      <point x="2166" y="1660"/>
+      <point x="2166" y="1780" type="curve" smooth="yes"/>
+      <point x="2166" y="1819"/>
+      <point x="2145" y="1843"/>
+      <point x="2094" y="1866" type="curve"/>
+      <point x="2019" y="1696"/>
+      <point x="1905" y="1619"/>
+      <point x="1793" y="1619" type="curve" smooth="yes"/>
+      <point x="1687" y="1619"/>
+      <point x="1608" y="1689"/>
+      <point x="1585" y="1884" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2323" y="1206" type="line"/>
+      <point x="2292" y="1330" type="line"/>
+      <point x="1228" y="1330" type="line"/>
+      <point x="1220" y="1321" type="line"/>
+      <point x="1252" y="1197" type="line"/>
+      <point x="1415" y="1197" type="line"/>
+      <point x="1358" y="907" type="line" smooth="yes"/>
+      <point x="1331" y="770"/>
+      <point x="1220" y="696"/>
+      <point x="1092" y="696" type="curve" smooth="yes"/>
+      <point x="1038" y="696"/>
+      <point x="978" y="709"/>
+      <point x="924" y="740" type="curve"/>
+      <point x="1053" y="835"/>
+      <point x="1088" y="918"/>
+      <point x="1088" y="1029" type="curve" smooth="yes"/>
+      <point x="1088" y="1208"/>
+      <point x="955" y="1335"/>
+      <point x="740" y="1335" type="curve" smooth="yes"/>
+      <point x="526" y="1335"/>
+      <point x="395" y="1220"/>
+      <point x="395" y="1117" type="curve" smooth="yes"/>
+      <point x="395" y="1057"/>
+      <point x="442" y="1017"/>
+      <point x="521" y="1017" type="curve"/>
+      <point x="544" y="1135"/>
+      <point x="645" y="1224"/>
+      <point x="785" y="1224" type="curve" smooth="yes"/>
+      <point x="887" y="1224"/>
+      <point x="953" y="1173"/>
+      <point x="953" y="1076" type="curve" smooth="yes"/>
+      <point x="953" y="918"/>
+      <point x="832" y="814"/>
+      <point x="543" y="799" type="curve"/>
+      <point x="535" y="789" type="line"/>
+      <point x="586" y="632" type="line"/>
+      <point x="673" y="642"/>
+      <point x="748" y="659"/>
+      <point x="812" y="683" type="curve"/>
+      <point x="879" y="651"/>
+      <point x="919" y="573"/>
+      <point x="919" y="490" type="curve" smooth="yes"/>
+      <point x="919" y="338"/>
+      <point x="794" y="224"/>
+      <point x="622" y="224" type="curve" smooth="yes"/>
+      <point x="423" y="224"/>
+      <point x="282" y="385"/>
+      <point x="301" y="756" type="curve"/>
+      <point x="233" y="750"/>
+      <point x="202" y="722"/>
+      <point x="202" y="597" type="curve" smooth="yes"/>
+      <point x="202" y="408"/>
+      <point x="307" y="62"/>
+      <point x="633" y="62" type="curve" smooth="yes"/>
+      <point x="876" y="62"/>
+      <point x="1044" y="230"/>
+      <point x="1044" y="444" type="curve" smooth="yes"/>
+      <point x="1044" y="496"/>
+      <point x="1034" y="554"/>
+      <point x="1016" y="600" type="curve"/>
+      <point x="1061" y="582"/>
+      <point x="1110" y="573"/>
+      <point x="1156" y="573" type="curve" smooth="yes"/>
+      <point x="1201" y="573"/>
+      <point x="1246" y="582"/>
+      <point x="1300" y="605" type="curve"/>
+      <point x="1186" y="19" type="line"/>
+      <point x="1329" y="-19" type="line"/>
+      <point x="1340" y="-12" type="line"/>
+      <point x="1575" y="1197" type="line"/>
+      <point x="1898" y="1197" type="line"/>
+      <point x="1669" y="19" type="line"/>
+      <point x="1812" y="-19" type="line"/>
+      <point x="1823" y="-12" type="line"/>
+      <point x="2058" y="1197" type="line"/>
+      <point x="2316" y="1197" type="line"/>
+    </contour>
+    <contour>
+      <point x="1819.30677413" y="-19.0" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="2002.55390961" y="1325.0" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="1327.00849462" y="1600.0" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="2016.16053125" y="1395.0" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="1017.94380309" y="10.0" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="1014.05619691" y="-10.0" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="-4.47074711017" y="-23.0" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="2004.4977127" y="1335.0" type="move" name="abvm_reph"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dOcandra</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2033</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

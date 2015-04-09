@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dIisignRephAnusvara" format="1">
+  <advance width="653"/>
+  <outline>
+    <contour>
+      <point x="912" y="1330" type="line"/>
+      <point x="657" y="1330" type="line"/>
+      <point x="638" y="1369"/>
+      <point x="629" y="1429"/>
+      <point x="629" y="1475" type="curve" smooth="yes"/>
+      <point x="629" y="1623"/>
+      <point x="723" y="1706"/>
+      <point x="859" y="1706" type="curve" smooth="yes"/>
+      <point x="915" y="1706"/>
+      <point x="973" y="1691"/>
+      <point x="1019" y="1659" type="curve"/>
+      <point x="1024" y="1669"/>
+      <point x="1032" y="1679"/>
+      <point x="1032" y="1715" type="curve" smooth="yes"/>
+      <point x="1032" y="1819"/>
+      <point x="936" y="1915"/>
+      <point x="792" y="1915" type="curve" smooth="yes"/>
+      <point x="652" y="1915"/>
+      <point x="539" y="1830"/>
+      <point x="485" y="1717" type="curve"/>
+      <point x="376" y="1864"/>
+      <point x="238" y="1926"/>
+      <point x="86" y="1926" type="curve" smooth="yes"/>
+      <point x="-157" y="1926"/>
+      <point x="-317" y="1774"/>
+      <point x="-317" y="1589" type="curve" smooth="yes"/>
+      <point x="-317" y="1452"/>
+      <point x="-232" y="1315"/>
+      <point x="-100" y="1252" type="curve"/>
+      <point x="56" y="1252" type="line"/>
+      <point x="-62" y="1342"/>
+      <point x="-102" y="1415"/>
+      <point x="-102" y="1485" type="curve" smooth="yes"/>
+      <point x="-102" y="1615"/>
+      <point x="10" y="1713"/>
+      <point x="152" y="1713" type="curve" smooth="yes"/>
+      <point x="282" y="1713"/>
+      <point x="412" y="1631"/>
+      <point x="480" y="1330" type="curve"/>
+      <point x="223" y="1330" type="line"/>
+      <point x="201" y="1307" type="line"/>
+      <point x="221" y="1137" type="line"/>
+      <point x="427" y="1137" type="line"/>
+      <point x="202" y="-21" type="line"/>
+      <point x="413" y="-57" type="line"/>
+      <point x="438" y="-39" type="line"/>
+      <point x="667" y="1137" type="line"/>
+      <point x="910" y="1137" type="line"/>
+      <point x="931" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="1428"/>
+      <point x="765" y="1382"/>
+      <point x="825" y="1382" type="curve" smooth="yes"/>
+      <point x="899" y="1382"/>
+      <point x="970" y="1447"/>
+      <point x="970" y="1522" type="curve" smooth="yes"/>
+      <point x="970" y="1578"/>
+      <point x="930" y="1623"/>
+      <point x="871" y="1623" type="curve" smooth="yes"/>
+      <point x="797" y="1623"/>
+      <point x="724" y="1559"/>
+      <point x="724" y="1485" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dIisignRephAnusvara</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>653</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

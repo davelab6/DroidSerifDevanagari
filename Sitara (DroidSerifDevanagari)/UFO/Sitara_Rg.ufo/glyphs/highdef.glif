@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highdef" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="0" y="-752" type="line"/>
+      <point x="-30" y="-807" type="line"/>
+      <point x="30" y="-807" type="line"/>
+    </contour>
+    <contour>
+      <point x="-30" y="2333" type="line"/>
+      <point x="0" y="2278" type="line"/>
+      <point x="30" y="2333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

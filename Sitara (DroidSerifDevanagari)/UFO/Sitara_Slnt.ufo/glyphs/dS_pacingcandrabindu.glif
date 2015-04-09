@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSpacingcandrabindu" format="1">
+  <advance width="843"/>
+  <unicode hex="A8F2"/>
+  <outline>
+    <contour>
+      <point x="688" y="1155"/>
+      <point x="746" y="1207"/>
+      <point x="746" y="1268" type="curve" smooth="yes"/>
+      <point x="746" y="1313"/>
+      <point x="713" y="1350"/>
+      <point x="665" y="1350" type="curve" smooth="yes"/>
+      <point x="606" y="1350"/>
+      <point x="548" y="1298"/>
+      <point x="548" y="1238" type="curve" smooth="yes"/>
+      <point x="548" y="1192"/>
+      <point x="581" y="1155"/>
+      <point x="628" y="1155" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="347" y="1259"/>
+      <point x="331" y="1242"/>
+      <point x="331" y="1172" type="curve" smooth="yes"/>
+      <point x="331" y="1049"/>
+      <point x="424" y="882"/>
+      <point x="607" y="882" type="curve" smooth="yes"/>
+      <point x="803" y="882"/>
+      <point x="970" y="1056"/>
+      <point x="970" y="1176" type="curve" smooth="yes"/>
+      <point x="970" y="1215"/>
+      <point x="949" y="1239"/>
+      <point x="898" y="1262" type="curve"/>
+      <point x="823" y="1092"/>
+      <point x="709" y="1015"/>
+      <point x="597" y="1015" type="curve" smooth="yes"/>
+      <point x="491" y="1015"/>
+      <point x="413" y="1085"/>
+      <point x="390" y="1280" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dSpacingcandrabindu</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>843</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

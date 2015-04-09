@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dNTha" format="1">
+  <advance width="1801"/>
+  <outline>
+    <contour>
+      <point x="1190" y="1330" type="line"/>
+      <point x="1184" y="1321" type="line"/>
+      <point x="1240" y="1197" type="line"/>
+      <point x="1434" y="1197" type="line"/>
+      <point x="1434" y="680" type="line" smooth="yes"/>
+      <point x="1434" y="512"/>
+      <point x="1297" y="401"/>
+      <point x="1136" y="401" type="curve" smooth="yes"/>
+      <point x="1030" y="401"/>
+      <point x="895" y="449"/>
+      <point x="792" y="591" type="curve"/>
+      <point x="1030" y="675"/>
+      <point x="1145" y="810"/>
+      <point x="1145" y="984" type="curve" smooth="yes"/>
+      <point x="1145" y="1207"/>
+      <point x="957" y="1387"/>
+      <point x="767" y="1387" type="curve" smooth="yes"/>
+      <point x="703" y="1387"/>
+      <point x="644" y="1367"/>
+      <point x="602" y="1330" type="curve"/>
+      <point x="-50" y="1330" type="line"/>
+      <point x="-56" y="1321" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="538" y="1197" type="line"/>
+      <point x="538" y="1186" type="line" smooth="yes"/>
+      <point x="538" y="1046"/>
+      <point x="672" y="922"/>
+      <point x="790" y="922" type="curve" smooth="yes"/>
+      <point x="830" y="922"/>
+      <point x="850" y="936"/>
+      <point x="859" y="951" type="curve"/>
+      <point x="735" y="1000"/>
+      <point x="688" y="1067"/>
+      <point x="688" y="1136" type="curve" smooth="yes"/>
+      <point x="688" y="1214"/>
+      <point x="750" y="1260"/>
+      <point x="830" y="1260" type="curve" smooth="yes"/>
+      <point x="929" y="1260"/>
+      <point x="1005" y="1189"/>
+      <point x="1005" y="1064" type="curve" smooth="yes"/>
+      <point x="1005" y="959"/>
+      <point x="951" y="872"/>
+      <point x="838" y="803" type="curve"/>
+      <point x="236" y="803" type="line" smooth="yes"/>
+      <point x="135" y="803"/>
+      <point x="55" y="787"/>
+      <point x="55" y="713" type="curve" smooth="yes"/>
+      <point x="55" y="604"/>
+      <point x="227" y="434"/>
+      <point x="303" y="434" type="curve" smooth="yes"/>
+      <point x="331" y="434"/>
+      <point x="358" y="457"/>
+      <point x="358" y="513" type="curve" smooth="yes"/>
+      <point x="358" y="658" type="line"/>
+      <point x="629" y="658" type="line"/>
+      <point x="807" y="363"/>
+      <point x="1013" y="241"/>
+      <point x="1208" y="241" type="curve" smooth="yes"/>
+      <point x="1296" y="241"/>
+      <point x="1365" y="266"/>
+      <point x="1434" y="316" type="curve"/>
+      <point x="1434" y="19" type="line"/>
+      <point x="1585" y="-19" type="line"/>
+      <point x="1594" y="-12" type="line"/>
+      <point x="1594" y="1197" type="line"/>
+      <point x="1851" y="1197" type="line"/>
+      <point x="1857" y="1206" type="line"/>
+      <point x="1801" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="1514" y="1395" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="1514" y="1325" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="1514" y="1335" type="move" name="abvm_reph"/>
+    </contour>
+    <contour>
+      <point x="900" y="1600" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="1514" y="-19" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="900" y="-10" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="900" y="10" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="0" y="-23" type="move" name="blwm_nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dNTha</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1801</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

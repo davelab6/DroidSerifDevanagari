@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSMYa" format="1">
+  <advance width="2530"/>
+  <outline>
+    <contour>
+      <point x="209" y="1330" type="line"/>
+      <point x="201" y="1321" type="line"/>
+      <point x="233" y="1197" type="line"/>
+      <point x="637" y="1197" type="line"/>
+      <point x="649" y="1146"/>
+      <point x="655" y="1074"/>
+      <point x="655" y="1025" type="curve" smooth="yes"/>
+      <point x="655" y="892"/>
+      <point x="622" y="799"/>
+      <point x="519" y="733" type="curve"/>
+      <point x="465" y="765"/>
+      <point x="408" y="779"/>
+      <point x="364" y="779" type="curve" smooth="yes"/>
+      <point x="263" y="779"/>
+      <point x="201" y="709"/>
+      <point x="201" y="621" type="curve" smooth="yes"/>
+      <point x="201" y="411"/>
+      <point x="471" y="-2"/>
+      <point x="639" y="-2" type="curve" smooth="yes"/>
+      <point x="681" y="-2"/>
+      <point x="728" y="24"/>
+      <point x="746" y="66" type="curve"/>
+      <point x="561" y="171"/>
+      <point x="437" y="296"/>
+      <point x="348" y="485" type="curve"/>
+      <point x="459" y="508"/>
+      <point x="539" y="544"/>
+      <point x="601" y="591" type="curve"/>
+      <point x="697" y="541"/>
+      <point x="808" y="505"/>
+      <point x="915" y="503" type="curve"/>
+      <point x="938" y="415"/>
+      <point x="1043" y="284"/>
+      <point x="1100" y="284" type="curve" smooth="yes"/>
+      <point x="1140" y="284"/>
+      <point x="1168" y="307"/>
+      <point x="1179" y="363" type="curve" smooth="yes"/>
+      <point x="1207" y="508" type="line"/>
+      <point x="1609" y="508" type="line"/>
+      <point x="1711" y="336"/>
+      <point x="1843" y="261"/>
+      <point x="1991" y="261" type="curve" smooth="yes"/>
+      <point x="2075" y="261"/>
+      <point x="2149" y="285"/>
+      <point x="2228" y="334" type="curve"/>
+      <point x="2167" y="19" type="line"/>
+      <point x="2310" y="-19" type="line"/>
+      <point x="2321" y="-12" type="line"/>
+      <point x="2556" y="1197" type="line"/>
+      <point x="2813" y="1197" type="line"/>
+      <point x="2820" y="1206" type="line"/>
+      <point x="2789" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="758" y="766"/>
+      <point x="773" y="855"/>
+      <point x="773" y="943" type="curve" smooth="yes"/>
+      <point x="773" y="1023"/>
+      <point x="759" y="1119"/>
+      <point x="737" y="1197" type="curve"/>
+      <point x="1183" y="1197" type="line"/>
+      <point x="1086" y="698" type="line"/>
+      <point x="1025" y="651"/>
+      <point x="950" y="626"/>
+      <point x="866" y="626" type="curve" smooth="yes"/>
+      <point x="810" y="626"/>
+      <point x="736" y="639"/>
+      <point x="674" y="662" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1341" y="1197" type="line"/>
+      <point x="1854" y="1197" type="line"/>
+      <point x="1863" y="1167"/>
+      <point x="1869" y="1118"/>
+      <point x="1869" y="1077" type="curve" smooth="yes"/>
+      <point x="1869" y="920"/>
+      <point x="1808" y="828"/>
+      <point x="1515" y="750" type="curve"/>
+      <point x="1508" y="740" type="line"/>
+      <point x="1518" y="709"/>
+      <point x="1528" y="680"/>
+      <point x="1539" y="653" type="curve"/>
+      <point x="1235" y="653" type="line"/>
+    </contour>
+    <contour>
+      <point x="2266" y="528"/>
+      <point x="2105" y="421"/>
+      <point x="1953" y="421" type="curve" smooth="yes"/>
+      <point x="1844" y="421"/>
+      <point x="1732" y="476"/>
+      <point x="1671" y="628" type="curve"/>
+      <point x="1881" y="699"/>
+      <point x="1991" y="809"/>
+      <point x="1991" y="989" type="curve" smooth="yes"/>
+      <point x="1991" y="1055"/>
+      <point x="1977" y="1134"/>
+      <point x="1955" y="1197" type="curve"/>
+      <point x="2396" y="1197" type="line"/>
+      <point x="2297" y="690" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="2317.30677413" y="-19.0" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="2500.55390961" y="1325.0" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="1576.00849462" y="1600.0" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="2514.16053125" y="1395.0" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="2206.94380309" y="10.0" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="1803.05619691" y="-10.0" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="1668.9672838" y="77.0" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="2502.4977127" y="1335.0" type="move" name="abvm_reph"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dSMYa</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2530</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

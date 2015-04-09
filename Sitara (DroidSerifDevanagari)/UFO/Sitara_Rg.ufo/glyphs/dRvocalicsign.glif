@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dRvocalicsign" format="1">
+  <advance width="0"/>
+  <unicode hex="0943"/>
+  <outline>
+    <contour>
+      <point x="80" y="-11" type="line"/>
+      <point x="-29" y="98" type="line"/>
+      <point x="-223" y="46"/>
+      <point x="-301" y="-45"/>
+      <point x="-301" y="-150" type="curve" smooth="yes"/>
+      <point x="-301" y="-287"/>
+      <point x="-168" y="-436"/>
+      <point x="25" y="-436" type="curve" smooth="yes"/>
+      <point x="146" y="-436"/>
+      <point x="288" y="-378"/>
+      <point x="288" y="-291" type="curve" smooth="yes"/>
+      <point x="288" y="-246"/>
+      <point x="250" y="-201"/>
+      <point x="214" y="-189" type="curve"/>
+      <point x="154" y="-252"/>
+      <point x="37" y="-318"/>
+      <point x="-58" y="-318" type="curve" smooth="yes"/>
+      <point x="-147" y="-318"/>
+      <point x="-182" y="-260"/>
+      <point x="-182" y="-212" type="curve" smooth="yes"/>
+      <point x="-182" y="-149"/>
+      <point x="-122" y="-77"/>
+      <point x="80" y="-22" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="-19" type="move" name="_blwm_matra"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dRvocalicsign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dVa.half" format="1">
+  <advance width="689"/>
+  <outline>
+    <contour>
+      <point x="-56" y="1321" type="line"/>
+      <point x="0" y="1197" type="line"/>
+      <point x="770" y="1197" type="line"/>
+      <point x="776" y="1206" type="line"/>
+      <point x="720" y="1330" type="line"/>
+      <point x="-50" y="1330" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="1007"/>
+      <point x="79" y="861"/>
+      <point x="79" y="664" type="curve" smooth="yes"/>
+      <point x="79" y="413"/>
+      <point x="335" y="219"/>
+      <point x="555" y="219" type="curve" smooth="yes"/>
+      <point x="755" y="219"/>
+      <point x="919" y="378"/>
+      <point x="919" y="571" type="curve" smooth="yes"/>
+      <point x="919" y="792"/>
+      <point x="701" y="1007"/>
+      <point x="447" y="1007" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="373" y="863"/>
+      <point x="514" y="863" type="curve" smooth="yes"/>
+      <point x="688" y="863"/>
+      <point x="794" y="760"/>
+      <point x="794" y="620" type="curve" smooth="yes"/>
+      <point x="794" y="464"/>
+      <point x="641" y="350"/>
+      <point x="489" y="350" type="curve" smooth="yes"/>
+      <point x="342" y="350"/>
+      <point x="228" y="449"/>
+      <point x="228" y="594" type="curve" smooth="yes"/>
+      <point x="228" y="767"/>
+    </contour>
+  </outline>
+</glyph>

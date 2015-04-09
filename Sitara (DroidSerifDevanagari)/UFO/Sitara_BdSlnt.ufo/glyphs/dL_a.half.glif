@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dLa.half" format="1">
+  <advance width="908"/>
+  <outline>
+    <contour>
+      <point x="1200" y="1330" type="line"/>
+      <point x="223" y="1330" type="line"/>
+      <point x="201" y="1307" type="line"/>
+      <point x="221" y="1137" type="line"/>
+      <point x="1198" y="1137" type="line"/>
+      <point x="1219" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="946"/>
+      <point x="197" y="797"/>
+      <point x="197" y="562" type="curve" smooth="yes"/>
+      <point x="197" y="256"/>
+      <point x="424" y="-78"/>
+      <point x="569" y="-78" type="curve" smooth="yes"/>
+      <point x="608" y="-78"/>
+      <point x="653" y="-55"/>
+      <point x="680" y="-6" type="curve"/>
+      <point x="505" y="131"/>
+      <point x="416" y="331"/>
+      <point x="416" y="480" type="curve" smooth="yes"/>
+      <point x="416" y="629"/>
+      <point x="519" y="738"/>
+      <point x="632" y="738" type="curve" smooth="yes"/>
+      <point x="674" y="738"/>
+      <point x="707" y="722"/>
+      <point x="738" y="688" type="curve"/>
+      <point x="699" y="642"/>
+      <point x="664" y="589"/>
+      <point x="636" y="532" type="curve"/>
+      <point x="810" y="396" type="line"/>
+      <point x="838" y="406" type="line"/>
+      <point x="947" y="631"/>
+      <point x="1101" y="745"/>
+      <point x="1356" y="760" type="curve"/>
+      <point x="1248" y="939" type="line"/>
+      <point x="1093" y="931"/>
+      <point x="953" y="878"/>
+      <point x="839" y="787" type="curve"/>
+      <point x="761" y="887"/>
+      <point x="658" y="946"/>
+      <point x="536" y="946" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dLa.half</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>908</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

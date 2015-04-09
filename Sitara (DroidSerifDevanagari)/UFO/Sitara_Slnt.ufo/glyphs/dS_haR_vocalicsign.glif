@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dShaRvocalicsign" format="1">
+  <advance width="1479"/>
+  <outline>
+    <contour>
+      <point x="1505" y="1197" type="line"/>
+      <point x="1762" y="1197" type="line"/>
+      <point x="1769" y="1206" type="line"/>
+      <point x="1738" y="1330" type="line"/>
+      <point x="1128" y="1330" type="line"/>
+      <point x="1120" y="1321" type="line"/>
+      <point x="1152" y="1197" type="line"/>
+      <point x="1345" y="1197" type="line"/>
+      <point x="1262" y="771" type="line"/>
+      <point x="1183" y="708"/>
+      <point x="1090" y="676"/>
+      <point x="993" y="676" type="curve" smooth="yes"/>
+      <point x="914" y="676"/>
+      <point x="837" y="698"/>
+      <point x="779" y="732" type="curve"/>
+      <point x="969" y="871"/>
+      <point x="1036" y="972"/>
+      <point x="1036" y="1088" type="curve" smooth="yes"/>
+      <point x="1036" y="1237"/>
+      <point x="924" y="1387"/>
+      <point x="756" y="1387" type="curve" smooth="yes"/>
+      <point x="589" y="1387"/>
+      <point x="445" y="1257"/>
+      <point x="445" y="1067" type="curve" smooth="yes"/>
+      <point x="445" y="968"/>
+      <point x="483" y="859"/>
+      <point x="548" y="771" type="curve"/>
+      <point x="449" y="712"/>
+      <point x="323" y="644"/>
+      <point x="177" y="572" type="curve"/>
+      <point x="175" y="564" type="line"/>
+      <point x="265" y="443" type="line"/>
+      <point x="424" y="520"/>
+      <point x="556" y="590"/>
+      <point x="661" y="655" type="curve"/>
+      <point x="767" y="574"/>
+      <point x="892" y="521"/>
+      <point x="1040" y="521" type="curve" smooth="yes"/>
+      <point x="1107" y="521"/>
+      <point x="1162" y="532"/>
+      <point x="1220" y="558" type="curve"/>
+      <point x="1128" y="83" type="line"/>
+      <point x="937" y="21"/>
+      <point x="858" y="-74"/>
+      <point x="858" y="-182" type="curve" smooth="yes"/>
+      <point x="858" y="-302"/>
+      <point x="954" y="-436"/>
+      <point x="1132" y="-436" type="curve" smooth="yes"/>
+      <point x="1260" y="-436"/>
+      <point x="1425" y="-373"/>
+      <point x="1425" y="-278" type="curve" smooth="yes"/>
+      <point x="1425" y="-238"/>
+      <point x="1399" y="-200"/>
+      <point x="1369" y="-189" type="curve"/>
+      <point x="1303" y="-248"/>
+      <point x="1171" y="-318"/>
+      <point x="1073" y="-318" type="curve" smooth="yes"/>
+      <point x="998" y="-318"/>
+      <point x="967" y="-275"/>
+      <point x="967" y="-229" type="curve" smooth="yes"/>
+      <point x="967" y="-164"/>
+      <point x="1022" y="-86"/>
+      <point x="1268" y="-22" type="curve"/>
+    </contour>
+    <contour>
+      <point x="600" y="1163"/>
+      <point x="704" y="1258"/>
+      <point x="799" y="1258" type="curve" smooth="yes"/>
+      <point x="853" y="1258"/>
+      <point x="902" y="1222"/>
+      <point x="902" y="1150" type="curve" smooth="yes"/>
+      <point x="902" y="1059"/>
+      <point x="827" y="962"/>
+      <point x="657" y="843" type="curve"/>
+      <point x="621" y="895"/>
+      <point x="600" y="962"/>
+      <point x="600" y="1024" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1266.30677413" y="-19.0" type="move" name="blwm_matra"/>
+    </contour>
+    <contour>
+      <point x="1449.55390961" y="1325.0" type="move" name="abvm_matra"/>
+    </contour>
+    <contour>
+      <point x="1050.00849462" y="1600.0" type="move" name="abvm_latin"/>
+    </contour>
+    <contour>
+      <point x="1463.16053125" y="1395.0" type="move" name="abvm_nasal"/>
+    </contour>
+    <contour>
+      <point x="740.943803091" y="10.0" type="move" name="blwm_rakar"/>
+    </contour>
+    <contour>
+      <point x="737.056196909" y="-10.0" type="move" name="blwm_mid"/>
+    </contour>
+    <contour>
+      <point x="-4.47074711017" y="-23.0" type="move" name="blwm_nukta"/>
+    </contour>
+    <contour>
+      <point x="1451.4977127" y="1335.0" type="move" name="abvm_reph"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dShaRvocalicsign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1479</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

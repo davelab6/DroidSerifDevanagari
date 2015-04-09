@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dEight.nep" format="1">
+  <advance width="1130"/>
+  <outline>
+    <contour>
+      <point x="640" y="412"/>
+      <point x="549" y="291"/>
+      <point x="403" y="291" type="curve" smooth="yes"/>
+      <point x="316" y="291"/>
+      <point x="253" y="334"/>
+      <point x="253" y="459" type="curve" smooth="yes"/>
+      <point x="253" y="595"/>
+      <point x="327" y="794"/>
+      <point x="490" y="942" type="curve"/>
+      <point x="1039" y="942" type="line"/>
+      <point x="1045" y="951" type="line"/>
+      <point x="989" y="1075" type="line"/>
+      <point x="66" y="1075" type="line"/>
+      <point x="60" y="1066" type="line"/>
+      <point x="116" y="942" type="line"/>
+      <point x="261" y="942" type="line"/>
+      <point x="151" y="788"/>
+      <point x="111" y="645"/>
+      <point x="111" y="539" type="curve" smooth="yes"/>
+      <point x="111" y="335"/>
+      <point x="277" y="156"/>
+      <point x="469" y="156" type="curve" smooth="yes"/>
+      <point x="632" y="156"/>
+      <point x="725" y="286"/>
+      <point x="852" y="279" type="curve" smooth="yes"/>
+      <point x="926" y="275"/>
+      <point x="940" y="228"/>
+      <point x="940" y="201" type="curve" smooth="yes"/>
+      <point x="940" y="143"/>
+      <point x="873" y="91"/>
+      <point x="821" y="78" type="curve"/>
+      <point x="864" y="22"/>
+      <point x="902" y="-4"/>
+      <point x="948" y="-4" type="curve" smooth="yes"/>
+      <point x="1016" y="-4"/>
+      <point x="1070" y="52"/>
+      <point x="1070" y="136" type="curve" smooth="yes"/>
+      <point x="1070" y="274"/>
+      <point x="925" y="412"/>
+      <point x="778" y="412" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
